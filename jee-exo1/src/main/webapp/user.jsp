@@ -11,7 +11,7 @@
 <html>
 <head>
     <title>Title</title>
-    <jsp:include page="WEB-INF/bootstrap.jsp"/>
+    <jsp:include page="WEB-INF/bootstrap.html"/>
 </head>
 <body class="<%= color%>">
 
