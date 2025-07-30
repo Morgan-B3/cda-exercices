@@ -5,9 +5,9 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.example</groupId>
-    <artifactId>jee-exercice3</artifactId>
+    <artifactId>exercice4</artifactId>
     <version>1.0-SNAPSHOT</version>
-    <name>jee-exercice3</name>
+    <name>exercice4</name>
     <packaging>war</packaging>
 
     <properties>
@@ -61,7 +61,12 @@
             <version>3.0.1</version>
         </dependency>
 
-
+        <!-- https://mvnrepository.com/artifact/mysql/mysql-connector-java -->
+        <dependency>
+            <groupId>mysql</groupId>
+            <artifactId>mysql-connector-java</artifactId>
+            <version>8.0.33</version>
+        </dependency>
 
     </dependencies>
 

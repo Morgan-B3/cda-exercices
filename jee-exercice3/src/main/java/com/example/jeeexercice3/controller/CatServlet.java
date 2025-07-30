@@ -46,7 +46,7 @@ public class CatServlet extends HttpServlet {
         System.out.println("birthday: " + birthday);
 
         cats.add(new Cat(name, breed, food, birthday));
-        
+
         req.setAttribute("cats", cats);
         req.getRequestDispatcher("/WEB-INF/cat/list.jsp").forward(req, resp);
     }

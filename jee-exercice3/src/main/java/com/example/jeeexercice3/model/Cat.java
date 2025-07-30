@@ -1,14 +1,25 @@
 package com.example.jeeexercice3.model;
 
+import jakarta.persistence.Entity;
+import jakarta.persistence.GeneratedValue;
+import jakarta.persistence.GenerationType;
+import jakarta.persistence.Id;
+
 import java.time.LocalDate;
 import java.util.Date;
 
+@Entity
 public class Cat {
+    @Id
+    @GeneratedValue(strategy = GenerationType.TABLE)
+    private int id;
     private String name;
     private String breed;
     private String food;
     //private String birthday;
     private LocalDate birthday;
+
+    public Cat() {}
 
     public Cat(String name, String breed, String food, LocalDate birthday) {
         this.name = name;
