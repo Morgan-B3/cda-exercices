@@ -19,4 +19,9 @@ public class DogRepository extends Repository<Dog> {
     public List<Dog> findAll() {
         return _session.createQuery("from Dog").list();
     }
+
+    @Override
+    public void delete(Dog o) {
+
+    }
 }

@@ -49,7 +49,7 @@
 
     <h2>Ajouter un chien</h2>
 
-    <form action="${pageContext.request.contextPath}/dog" method="post">
+    <form action="${pageContext.request.contextPath}/dog/add" method="post">
         <div>
             <label for="name">Nom :</label>
             <input type="text" id="name" name="name">

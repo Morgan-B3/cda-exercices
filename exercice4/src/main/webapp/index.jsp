@@ -6,9 +6,11 @@
     <jsp:include page="WEB-INF/bootstrap.html"/>
 </head>
 <body>
-<h1>Exercice 4
-</h1>
-<br/>
-<a href="dog/all">Les chiens</a>
+<main class="container">
+    <h1>Exercice 4
+    </h1>
+    <br/>
+    <a href="dog/all">Les chiens</a>
+</main>
 </body>
 </html>

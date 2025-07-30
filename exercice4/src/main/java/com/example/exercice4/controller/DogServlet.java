@@ -50,15 +50,28 @@ public class DogServlet extends HttpServlet {
 
     @Override
     protected void doPost(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
-        // recuperer les infos du formulaire pour ajouter un chien
-        String name = req.getParameter("name");
-        String breed = req.getParameter("breed");
+        String pathInfo = (req.getPathInfo()!=null && !req.getPathInfo().isEmpty()) ? req.getPathInfo() : "";
+        System.out.println("pathInfo: " + pathInfo);
+        if (pathInfo!=null && !pathInfo.isEmpty()) {
+            switch (pathInfo) {
+                case "/add":
+                    // recuperer les infos du formulaire pour ajouter un chien
+                    String name = req.getParameter("name");
+                    String breed = req.getParameter("breed");
 
-        LocalDate dateOfBirth = LocalDate.parse(req.getParameter("dateOfBirth"));
-        // Creation d'un chien
-        Dog dog = new Dog(name, breed, dateOfBirth);
-        // Ajout du chat a la liste
-        dogService.addDog(dog);
-        resp.sendRedirect(getServletContext().getContextPath()+"/dog");
+                    LocalDate dateOfBirth = LocalDate.parse(req.getParameter("dateOfBirth"));
+                    // Creation d'un chien
+                    Dog dog = new Dog(name, breed, dateOfBirth);
+                    // Ajout du chat a la liste
+                    dogService.addDog(dog);
+                    resp.sendRedirect(getServletContext().getContextPath()+"/dog");
+                    break;
+                case "/delete":
+                    Dog dogDelete = dogService.getById(Integer.parseInt(req.getParameter("id")));
+                    dogService.deleteDog(dogDelete);
+                    resp.sendRedirect(getServletContext().getContextPath()+"/dog/all");
+
+            }
+        }
     }
 }

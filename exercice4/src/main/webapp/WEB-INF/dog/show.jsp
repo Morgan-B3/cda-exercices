@@ -14,8 +14,10 @@
     <jsp:include page="/WEB-INF/bootstrap.html"/>
 </head>
 <body>
-
-<h1>Voici le chien : ${dog.name}</h1>
+<main class="container">
+    <h1>Voici ${dog.name}</h1>
+    <p>C'est un ${dog.breed}. Il est né le ${dog.dateOfBirth.getDayOfMonth()}/${dog.dateOfBirth.getMonthValue()}/${dog.dateOfBirth.getYear()}.</p>
+</main>
 
 </body>
 </html>

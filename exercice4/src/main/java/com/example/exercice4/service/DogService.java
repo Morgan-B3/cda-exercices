@@ -67,4 +67,22 @@ public class DogService implements IDogService {
             session.close();
         }
     }
+
+    @Override
+    public void deleteDog(Dog dog) {
+        session = _sessionFactory.openSession();
+        session.beginTransaction();
+        dogRepository =  new DogRepository(session);
+        try {
+            dogRepository.delete(dog);
+        } catch(Exception e){
+            try {
+                session.getTransaction().rollback();
+            }catch(Exception ex){
+                ex.printStackTrace();
+            }
+        }finally {
+            session.close();
+        }
+    }
 }

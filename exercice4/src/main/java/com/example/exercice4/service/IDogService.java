@@ -8,4 +8,5 @@ public interface IDogService {
     List<Dog> getAll();
     Dog getById(int id);
     void addDog(Dog dog);
+    void deleteDog(Dog dog);
 }
