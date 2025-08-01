@@ -35,6 +35,8 @@
                     <td><a href="${pageContext.request.contextPath}/dog/show?id=${c.id}">${c.name}</a></td>
                     <td>${c.breed}</td>
                     <td>${c.dateOfBirth}</td>
+                    <td><a></td>
+
                 </tr>
             </c:forEach>
             </tbody>
