@@ -35,4 +35,9 @@ public class ProductController {
     public String updateProduct(@PathVariable String id, @RequestBody Product product){
         return productService.updateProduct(id, product);
     }
+
+    @GetMapping("/total")
+    public String getTotal(){
+        return productService.showTotal();
+    }
 }

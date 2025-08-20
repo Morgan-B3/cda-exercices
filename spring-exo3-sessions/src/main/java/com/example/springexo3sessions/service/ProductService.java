@@ -77,8 +77,23 @@ public class ProductService {
         return message;
     }
 
-//    public String validate(){
-//        Map<String,List<Product>> products= (Map<String, List<Product>>) session.getAttribute("products");
-//
-//    }
+    public String showTotal(){
+        Map<String,List<Product>> products= (Map<String, List<Product>>) session.getAttribute("products");
+        if (products == null || products.keySet().size()==0) {
+            return "Le panier est vide";
+        } else {
+            double total=0;
+            String message="Articles du panier : ";
+            for (String key : products.keySet()) {
+                if (!products.get(key).isEmpty()){
+                    Product product = products.get(key).get(0);
+                    double quantity = products.get(key).size();
+                    total += quantity * product.getPrice();
+                    message += "\n- "+product.getName()+" = "+product.getPrice()+" (x"+products.get(key).size()+")";
+                }
+            }
+            message+="\nTotal = "+total+"€";
+            return message;
+        }
+    }
 }
