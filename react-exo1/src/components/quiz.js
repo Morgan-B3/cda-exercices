@@ -23,6 +23,7 @@ export const QUESTIONS = [
       { id: "d", label: "Toulouse" },
     ],
     answerId: "b",
+    explanation: "[...]"
   },
   {
     id: "q3",
@@ -34,6 +35,7 @@ export const QUESTIONS = [
       { id: "d", label: "<footer>" },
     ],
     answerId: "c",
+    explanation: "[...]"
   },
   {
     id: "q4",
@@ -45,6 +47,7 @@ export const QUESTIONS = [
       { id: "d", label: "reduce" },
     ],
     answerId: "c",
+    explanation: "[...]"
   },
   {
     id: "q5",
@@ -56,6 +59,7 @@ export const QUESTIONS = [
       { id: "d", label: "useRef" },
     ],
     answerId: "c",
+    explanation: "[...]"
   },
   {
     id: "q6",
@@ -67,6 +71,7 @@ export const QUESTIONS = [
       { id: "d", label: "string?" },
     ],
     answerId: "a",
+    explanation: "[...]"
   },
   {
     id: "q7",
@@ -78,6 +83,7 @@ export const QUESTIONS = [
       { id: "d", label: "500" },
     ],
     answerId: "c",
+    explanation: "[...]"
   },
   {
     id: "q8",
@@ -89,6 +95,7 @@ export const QUESTIONS = [
       { id: "d", label: "%" },
     ],
     answerId: "b",
+    explanation: "[...]"
   },
   {
     id: "q9",
@@ -100,6 +107,7 @@ export const QUESTIONS = [
       { id: "d", label: "git commit -b new" },
     ],
     answerId: "b",
+    explanation: "[...]"
   },
   {
     id: "q10",
@@ -111,5 +119,30 @@ export const QUESTIONS = [
       { id: "d", label: "une ref sur chaque item" },
     ],
     answerId: "b",
+    explanation: "[...]"
+  },
+  {
+    id: "q11",
+    prompt: "Test",
+    choices: [
+      { id: "a", label: "a" },
+      { id: "b", label: "b" },
+      { id: "c", label: "c" },
+      { id: "d", label: "d" },
+    ],
+    answerId: "d",
+    explanation: "La réponse D"
+  },
+  {
+    id: "q12",
+    prompt: "Dernière question",
+    choices: [
+      { id: "a", label: "a" },
+      { id: "b", label: "b" },
+      { id: "c", label: "c" },
+      { id: "d", label: "d" },
+    ],
+    answerId: "d",
+    explanation: "La réponse D"
   },
 ];

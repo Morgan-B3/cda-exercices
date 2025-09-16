@@ -2,6 +2,7 @@ import React, { use, useState } from 'react'
 import {Flex, Progress} from 'antd'
 import {QUESTIONS} from "./quiz.js"
 import Question from './Question.jsx'
+import Answer from './Answer.jsx';
 
 function Quiz() {
     const [questionNumber, setQuestionNumber] = useState(0);
@@ -28,18 +29,28 @@ function Quiz() {
         )
     })
 
+    let answersList2 = QUESTIONS.map((question,index)=>{
+        console.log(question.id);
+        
+        if(questionNumber > QUESTIONS.length-1 ){         
+            return(
+                <Answer question={question} userAnswerId={answers[index]}></Answer>
+            )
+        }
+    })
+
   return (
     <>
-        <Progress percent={(questionNumber+1)*10} status='active' format={(percent)=>`${percent/10}/10`}/>
+        <Progress percent={questionNumber < QUESTIONS.length ? (questionNumber)*((100/QUESTIONS.length)) : 100}  format={(percent)=>`${questionNumber <= QUESTIONS.length-1 ? questionNumber : QUESTIONS.length}/${QUESTIONS.length}`} title={'white'} trailColor={'white'}/>
         {questionNumber <= QUESTIONS.length-1 ? 
             <Question prompt={QUESTIONS[questionNumber].prompt} choices={QUESTIONS[questionNumber].choices} action={(answer,answerId)=>increment(answer, answerId)} answerId={QUESTIONS[questionNumber].answerId}></Question>
         :
             <div>
-                <p>Score : {score}/10</p>
+                <p>Score : {score}/{QUESTIONS.length}</p>
                 <button onClick={()=>restart()}>Rejouer ?</button>
                 <div>
                     <h2>Vos réponses :</h2>
-                    {answersList}
+                    {answersList2}
                 </div>
             </div>
         }
