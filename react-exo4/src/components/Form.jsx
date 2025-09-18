@@ -28,12 +28,8 @@ function Form() {
         category:categoryRef.current.value,
         amount:Number(amountRef.current.value),
     }))
-    console.log(id);
     
-    setId(s=>s++)
-
-    console.log(id);
-    
+    setId(s => s+1)
   };
 
   let curr = new Date();
