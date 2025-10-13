@@ -9,10 +9,10 @@ describe('moyenne()', () => {
     })
     // cas avec un nombre negatif
     it("gestion de tableau vide", () => {
-        expect(moyenne([])).toThrow("Toutes les valeurs doivent etre des nombres")
+        expect(() => moyenne([])).toThrow("Il doit y avoir au moins une valeur")
     })
     // cas d'erreur
     it("leve une erreur si un des arguments n'est pas un nombre",() => {
-        expect(() => moyenne('a',5)).toThrow("Toutes les valeurs doivent etre des nombres")
+        expect(() => moyenne('a',"b")).toThrow("Toutes les valeurs doivent etre des nombres")
     })
 })
