@@ -7,7 +7,6 @@ export default function App() {
   return (
     <View style={styles.container}>
       <StatusBar style="auto" />
-      {/* <Contact name="Toto" phone="012345678" email="toto@tata.com"/> */}
       <ContactList/>
     </View>
   );

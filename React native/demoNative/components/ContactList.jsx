@@ -1,8 +1,16 @@
-import { View, Text, FlatList, StyleSheet } from 'react-native'
+import { View, Text, FlatList, StyleSheet, Pressable } from 'react-native'
 import React from 'react'
 import ContactItem from './ContactItem.jsx'
 
-export default function ContactList() {
+export default function ContactList({navigation}) {
+
+    const goToContact = (contact)=>{
+        navigation.navigate("Contact", contact)
+    }
+
+    const goToContactNew = ()=>{
+        navigation.navigate("ContactNew")
+    }
 
     const contacts = [
         {id:1, name:"Toto", phone:"+330123456", email:"toto@tata.fr"},
@@ -22,26 +30,56 @@ export default function ContactList() {
     ]
 
   return (
-    <View style={styles.list}>
-        <Text style={styles.title}>Liste des contacts :</Text>
-        <FlatList
-            data={contacts}
-            keyExtractor={(item) => item.id}
-            renderItem={({item}) => (
-                <ContactItem contact={item}/>
-            )}
-        />
+    <View style={styles.container}>
+          <Pressable onPress={()=>goToContactNew()} style={styles.buttonContainer} >
+            <Text style={styles.button}>+</Text>
+        </Pressable>
+        <View style={styles.list}>
+            <FlatList
+                data={contacts}
+                keyExtractor={(item) => item.id}
+                renderItem={({item}) => (
+                    <ContactItem contact={item} navigate={goToContact}/>
+                )}
+                />
+        </View>
+       
     </View>
   )
 }
 
 const styles = StyleSheet.create({
+    container:{
+        flex:1,
+        position:"relative"
+    },
     list:{
-        marginTop:10,
-        padding:40,
-        gap:30
+        padding:20,
+        gap:30,
+        marginBottom:50,
+        // backgroundColor:"#2e2e2eff"
     },
     title:{
         fontSize:30
+    },
+    buttonContainer:{
+        position:"absolute",
+        top:20,
+        right:20,
+        margin:"auto",
+        margin:"auto",
+        backgroundColor:"#32b826ff",
+        paddingHorizontal:20,
+        paddingVertical:10,
+        borderRadius:100,
+        width:60,
+        height:60,
+        zIndex:1
+    },
+    button:{
+        fontSize:30,
+        fontWeight:"bold",
+        textAlign:"center",
+        color:"white"
     }
 })
