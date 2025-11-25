@@ -1,0 +1,14 @@
+C:\Users\boutr\source\repos\ExoPOO1\ExoPOO1\obj\Debug\net10.0\ExoPOO1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\boutr\source\repos\ExoPOO1\ExoPOO1\obj\Debug\net10.0\ExoPOO1.AssemblyInfoInputs.cache
+C:\Users\boutr\source\repos\ExoPOO1\ExoPOO1\obj\Debug\net10.0\ExoPOO1.AssemblyInfo.cs
+C:\Users\boutr\source\repos\ExoPOO1\ExoPOO1\obj\Debug\net10.0\ExoPOO1.csproj.CoreCompileInputs.cache
+C:\Users\boutr\source\repos\ExoPOO1\ExoPOO1\bin\Debug\net10.0\ExoPOO1.exe
+C:\Users\boutr\source\repos\ExoPOO1\ExoPOO1\bin\Debug\net10.0\ExoPOO1.deps.json
+C:\Users\boutr\source\repos\ExoPOO1\ExoPOO1\bin\Debug\net10.0\ExoPOO1.runtimeconfig.json
+C:\Users\boutr\source\repos\ExoPOO1\ExoPOO1\bin\Debug\net10.0\ExoPOO1.dll
+C:\Users\boutr\source\repos\ExoPOO1\ExoPOO1\bin\Debug\net10.0\ExoPOO1.pdb
+C:\Users\boutr\source\repos\ExoPOO1\ExoPOO1\obj\Debug\net10.0\ExoPOO1.dll
+C:\Users\boutr\source\repos\ExoPOO1\ExoPOO1\obj\Debug\net10.0\refint\ExoPOO1.dll
+C:\Users\boutr\source\repos\ExoPOO1\ExoPOO1\obj\Debug\net10.0\ExoPOO1.pdb
+C:\Users\boutr\source\repos\ExoPOO1\ExoPOO1\obj\Debug\net10.0\ExoPOO1.genruntimeconfig.cache
+C:\Users\boutr\source\repos\ExoPOO1\ExoPOO1\obj\Debug\net10.0\ref\ExoPOO1.dll

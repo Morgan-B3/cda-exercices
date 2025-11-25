@@ -1,0 +1,182 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\boutr\\Desktop\\cda-exercices\\Csharp - DotNet\\ExoPOO1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6134E457-7145-EF6D-CBED-4AE2CD4BC5C7}|CompteBancaire\\CompteBancaire.csproj|c:\\users\\boutr\\desktop\\cda-exercices\\csharp - dotnet\\exopoo1\\comptebancaire\\classes\\operation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6134E457-7145-EF6D-CBED-4AE2CD4BC5C7}|CompteBancaire\\CompteBancaire.csproj|solutionrelative:comptebancaire\\classes\\operation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\boutr\\Desktop\\CDA5_2ITECH\\16 - .Net\\03 - Csharp avance\\demo01Classe\\Classes\\Dinosaure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\boutr\\Desktop\\CDA5_2ITECH\\16 - .Net\\03 - Csharp avance\\demo01Classe\\Classes\\Enclos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\boutr\\Desktop\\CDA5_2ITECH\\16 - .Net\\03 - Csharp avance\\csharp_POO\\Exo03Pendu\\Pendu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6134E457-7145-EF6D-CBED-4AE2CD4BC5C7}|CompteBancaire\\CompteBancaire.csproj|c:\\users\\boutr\\desktop\\cda-exercices\\csharp - dotnet\\exopoo1\\comptebancaire\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6134E457-7145-EF6D-CBED-4AE2CD4BC5C7}|CompteBancaire\\CompteBancaire.csproj|solutionrelative:comptebancaire\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6134E457-7145-EF6D-CBED-4AE2CD4BC5C7}|CompteBancaire\\CompteBancaire.csproj|c:\\users\\boutr\\desktop\\cda-exercices\\csharp - dotnet\\exopoo1\\comptebancaire\\classes\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6134E457-7145-EF6D-CBED-4AE2CD4BC5C7}|CompteBancaire\\CompteBancaire.csproj|solutionrelative:comptebancaire\\classes\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6134E457-7145-EF6D-CBED-4AE2CD4BC5C7}|CompteBancaire\\CompteBancaire.csproj|c:\\users\\boutr\\desktop\\cda-exercices\\csharp - dotnet\\exopoo1\\comptebancaire\\classes\\comptecourant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6134E457-7145-EF6D-CBED-4AE2CD4BC5C7}|CompteBancaire\\CompteBancaire.csproj|solutionrelative:comptebancaire\\classes\\comptecourant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6134E457-7145-EF6D-CBED-4AE2CD4BC5C7}|CompteBancaire\\CompteBancaire.csproj|c:\\users\\boutr\\desktop\\cda-exercices\\csharp - dotnet\\exopoo1\\comptebancaire\\classes\\compteepargne.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6134E457-7145-EF6D-CBED-4AE2CD4BC5C7}|CompteBancaire\\CompteBancaire.csproj|solutionrelative:comptebancaire\\classes\\compteepargne.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6134E457-7145-EF6D-CBED-4AE2CD4BC5C7}|CompteBancaire\\CompteBancaire.csproj|c:\\users\\boutr\\desktop\\cda-exercices\\csharp - dotnet\\exopoo1\\comptebancaire\\classes\\comptepayant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6134E457-7145-EF6D-CBED-4AE2CD4BC5C7}|CompteBancaire\\CompteBancaire.csproj|solutionrelative:comptebancaire\\classes\\comptepayant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6134E457-7145-EF6D-CBED-4AE2CD4BC5C7}|CompteBancaire\\CompteBancaire.csproj|c:\\users\\boutr\\desktop\\cda-exercices\\csharp - dotnet\\exopoo1\\comptebancaire\\classes\\comptebancaire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6134E457-7145-EF6D-CBED-4AE2CD4BC5C7}|CompteBancaire\\CompteBancaire.csproj|solutionrelative:comptebancaire\\classes\\comptebancaire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c6f34f0d-7ae5-4f3a-be61-fe0c21ae9eb8}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Dinosaure.cs",
+              "DocumentMoniker": "C:\\Users\\boutr\\Desktop\\CDA5_2ITECH\\16 - .Net\\03 - Csharp avance\\demo01Classe\\Classes\\Dinosaure.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\CDA5_2ITECH\\16 - .Net\\03 - Csharp avance\\demo01Classe\\Classes\\Dinosaure.cs",
+              "ToolTip": "C:\\Users\\boutr\\Desktop\\CDA5_2ITECH\\16 - .Net\\03 - Csharp avance\\demo01Classe\\Classes\\Dinosaure.cs",
+              "RelativeToolTip": "..\\..\\..\\CDA5_2ITECH\\16 - .Net\\03 - Csharp avance\\demo01Classe\\Classes\\Dinosaure.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T10:55:54.576Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Enclos.cs",
+              "DocumentMoniker": "C:\\Users\\boutr\\Desktop\\CDA5_2ITECH\\16 - .Net\\03 - Csharp avance\\demo01Classe\\Classes\\Enclos.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\CDA5_2ITECH\\16 - .Net\\03 - Csharp avance\\demo01Classe\\Classes\\Enclos.cs",
+              "ToolTip": "C:\\Users\\boutr\\Desktop\\CDA5_2ITECH\\16 - .Net\\03 - Csharp avance\\demo01Classe\\Classes\\Enclos.cs",
+              "RelativeToolTip": "..\\..\\..\\CDA5_2ITECH\\16 - .Net\\03 - Csharp avance\\demo01Classe\\Classes\\Enclos.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAsAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T10:55:43.878Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Pendu.cs",
+              "DocumentMoniker": "C:\\Users\\boutr\\Desktop\\CDA5_2ITECH\\16 - .Net\\03 - Csharp avance\\csharp_POO\\Exo03Pendu\\Pendu.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\CDA5_2ITECH\\16 - .Net\\03 - Csharp avance\\csharp_POO\\Exo03Pendu\\Pendu.cs",
+              "ToolTip": "C:\\Users\\boutr\\Desktop\\CDA5_2ITECH\\16 - .Net\\03 - Csharp avance\\csharp_POO\\Exo03Pendu\\Pendu.cs",
+              "RelativeToolTip": "..\\..\\..\\CDA5_2ITECH\\16 - .Net\\03 - Csharp avance\\csharp_POO\\Exo03Pendu\\Pendu.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T10:54:57.942Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\boutr\\Desktop\\cda-exercices\\Csharp - DotNet\\ExoPOO1\\CompteBancaire\\Program.cs",
+              "RelativeDocumentMoniker": "CompteBancaire\\Program.cs",
+              "ToolTip": "C:\\Users\\boutr\\Desktop\\cda-exercices\\Csharp - DotNet\\ExoPOO1\\CompteBancaire\\Program.cs",
+              "RelativeToolTip": "CompteBancaire\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T09:00:46.086Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Operation.cs",
+              "DocumentMoniker": "C:\\Users\\boutr\\Desktop\\cda-exercices\\Csharp - DotNet\\ExoPOO1\\CompteBancaire\\Classes\\Operation.cs",
+              "RelativeDocumentMoniker": "CompteBancaire\\Classes\\Operation.cs",
+              "ToolTip": "C:\\Users\\boutr\\Desktop\\cda-exercices\\Csharp - DotNet\\ExoPOO1\\CompteBancaire\\Classes\\Operation.cs",
+              "RelativeToolTip": "CompteBancaire\\Classes\\Operation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T09:05:35.941Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Client.cs",
+              "DocumentMoniker": "C:\\Users\\boutr\\Desktop\\cda-exercices\\Csharp - DotNet\\ExoPOO1\\CompteBancaire\\Classes\\Client.cs",
+              "RelativeDocumentMoniker": "CompteBancaire\\Classes\\Client.cs",
+              "ToolTip": "C:\\Users\\boutr\\Desktop\\cda-exercices\\Csharp - DotNet\\ExoPOO1\\CompteBancaire\\Classes\\Client.cs",
+              "RelativeToolTip": "CompteBancaire\\Classes\\Client.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAA1wB4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T09:05:28.93Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CompteCourant.cs",
+              "DocumentMoniker": "C:\\Users\\boutr\\Desktop\\cda-exercices\\Csharp - DotNet\\ExoPOO1\\CompteBancaire\\Classes\\CompteCourant.cs",
+              "RelativeDocumentMoniker": "CompteBancaire\\Classes\\CompteCourant.cs",
+              "ToolTip": "C:\\Users\\boutr\\Desktop\\cda-exercices\\Csharp - DotNet\\ExoPOO1\\CompteBancaire\\Classes\\CompteCourant.cs",
+              "RelativeToolTip": "CompteBancaire\\Classes\\CompteCourant.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAsAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T09:02:32.952Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CompteEpargne.cs",
+              "DocumentMoniker": "C:\\Users\\boutr\\Desktop\\cda-exercices\\Csharp - DotNet\\ExoPOO1\\CompteBancaire\\Classes\\CompteEpargne.cs",
+              "RelativeDocumentMoniker": "CompteBancaire\\Classes\\CompteEpargne.cs",
+              "ToolTip": "C:\\Users\\boutr\\Desktop\\cda-exercices\\Csharp - DotNet\\ExoPOO1\\CompteBancaire\\Classes\\CompteEpargne.cs",
+              "RelativeToolTip": "CompteBancaire\\Classes\\CompteEpargne.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAA9wBAAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T09:02:23.986Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ComptePayant.cs",
+              "DocumentMoniker": "C:\\Users\\boutr\\Desktop\\cda-exercices\\Csharp - DotNet\\ExoPOO1\\CompteBancaire\\Classes\\ComptePayant.cs",
+              "RelativeDocumentMoniker": "CompteBancaire\\Classes\\ComptePayant.cs",
+              "ToolTip": "C:\\Users\\boutr\\Desktop\\cda-exercices\\Csharp - DotNet\\ExoPOO1\\CompteBancaire\\Classes\\ComptePayant.cs",
+              "RelativeToolTip": "CompteBancaire\\Classes\\ComptePayant.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAqwBAAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T09:02:15.161Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CompteBancaire.cs",
+              "DocumentMoniker": "C:\\Users\\boutr\\Desktop\\cda-exercices\\Csharp - DotNet\\ExoPOO1\\CompteBancaire\\Classes\\CompteBancaire.cs",
+              "RelativeDocumentMoniker": "CompteBancaire\\Classes\\CompteBancaire.cs",
+              "ToolTip": "C:\\Users\\boutr\\Desktop\\cda-exercices\\Csharp - DotNet\\ExoPOO1\\CompteBancaire\\Classes\\CompteBancaire.cs",
+              "RelativeToolTip": "CompteBancaire\\Classes\\CompteBancaire.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T09:01:59.337Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

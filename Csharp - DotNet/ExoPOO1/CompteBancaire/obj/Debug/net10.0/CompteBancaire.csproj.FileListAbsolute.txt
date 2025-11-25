@@ -1,0 +1,29 @@
+C:\Users\boutr\source\repos\ExoPOO1\CompteBancaire\bin\Debug\net10.0\CompteBancaire.exe
+C:\Users\boutr\source\repos\ExoPOO1\CompteBancaire\obj\Debug\net10.0\CompteBancaire.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\boutr\source\repos\ExoPOO1\CompteBancaire\obj\Debug\net10.0\CompteBancaire.AssemblyInfoInputs.cache
+C:\Users\boutr\source\repos\ExoPOO1\CompteBancaire\obj\Debug\net10.0\CompteBancaire.AssemblyInfo.cs
+C:\Users\boutr\source\repos\ExoPOO1\CompteBancaire\obj\Debug\net10.0\CompteBancaire.csproj.CoreCompileInputs.cache
+C:\Users\boutr\source\repos\ExoPOO1\CompteBancaire\obj\Debug\net10.0\CompteBancaire.dll
+C:\Users\boutr\source\repos\ExoPOO1\CompteBancaire\obj\Debug\net10.0\refint\CompteBancaire.dll
+C:\Users\boutr\source\repos\ExoPOO1\CompteBancaire\obj\Debug\net10.0\CompteBancaire.pdb
+C:\Users\boutr\source\repos\ExoPOO1\CompteBancaire\bin\Debug\net10.0\CompteBancaire.deps.json
+C:\Users\boutr\source\repos\ExoPOO1\CompteBancaire\bin\Debug\net10.0\CompteBancaire.runtimeconfig.json
+C:\Users\boutr\source\repos\ExoPOO1\CompteBancaire\bin\Debug\net10.0\CompteBancaire.dll
+C:\Users\boutr\source\repos\ExoPOO1\CompteBancaire\bin\Debug\net10.0\CompteBancaire.pdb
+C:\Users\boutr\source\repos\ExoPOO1\CompteBancaire\obj\Debug\net10.0\CompteBancaire.genruntimeconfig.cache
+C:\Users\boutr\source\repos\ExoPOO1\CompteBancaire\obj\Debug\net10.0\ref\CompteBancaire.dll
+C:\Users\boutr\Desktop\cda-exercices\Csharp - DotNet\ExoPOO1\CompteBancaire\bin\Debug\net10.0\CompteBancaire.exe
+C:\Users\boutr\Desktop\cda-exercices\Csharp - DotNet\ExoPOO1\CompteBancaire\bin\Debug\net10.0\CompteBancaire.deps.json
+C:\Users\boutr\Desktop\cda-exercices\Csharp - DotNet\ExoPOO1\CompteBancaire\bin\Debug\net10.0\CompteBancaire.runtimeconfig.json
+C:\Users\boutr\Desktop\cda-exercices\Csharp - DotNet\ExoPOO1\CompteBancaire\bin\Debug\net10.0\CompteBancaire.dll
+C:\Users\boutr\Desktop\cda-exercices\Csharp - DotNet\ExoPOO1\CompteBancaire\bin\Debug\net10.0\CompteBancaire.pdb
+C:\Users\boutr\Desktop\cda-exercices\Csharp - DotNet\ExoPOO1\CompteBancaire\obj\Debug\net10.0\CompteBancaire.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\boutr\Desktop\cda-exercices\Csharp - DotNet\ExoPOO1\CompteBancaire\obj\Debug\net10.0\CompteBancaire.AssemblyInfoInputs.cache
+C:\Users\boutr\Desktop\cda-exercices\Csharp - DotNet\ExoPOO1\CompteBancaire\obj\Debug\net10.0\CompteBancaire.AssemblyInfo.cs
+C:\Users\boutr\Desktop\cda-exercices\Csharp - DotNet\ExoPOO1\CompteBancaire\obj\Debug\net10.0\CompteBancaire.csproj.CoreCompileInputs.cache
+C:\Users\boutr\Desktop\cda-exercices\Csharp - DotNet\ExoPOO1\CompteBancaire\obj\Debug\net10.0\CompteBancaire.sourcelink.json
+C:\Users\boutr\Desktop\cda-exercices\Csharp - DotNet\ExoPOO1\CompteBancaire\obj\Debug\net10.0\CompteBancaire.dll
+C:\Users\boutr\Desktop\cda-exercices\Csharp - DotNet\ExoPOO1\CompteBancaire\obj\Debug\net10.0\refint\CompteBancaire.dll
+C:\Users\boutr\Desktop\cda-exercices\Csharp - DotNet\ExoPOO1\CompteBancaire\obj\Debug\net10.0\CompteBancaire.pdb
+C:\Users\boutr\Desktop\cda-exercices\Csharp - DotNet\ExoPOO1\CompteBancaire\obj\Debug\net10.0\CompteBancaire.genruntimeconfig.cache
+C:\Users\boutr\Desktop\cda-exercices\Csharp - DotNet\ExoPOO1\CompteBancaire\obj\Debug\net10.0\ref\CompteBancaire.dll

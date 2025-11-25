@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="CompteBancaire/CompteBancaire.csproj" />
+  <Project Path="ConsoleApp1/Salarie.csproj" />
+  <Project Path="ExoPOO1/Chaise.csproj" />
+  <Project Path="Pendu/Pendu.csproj" />
+</Solution>

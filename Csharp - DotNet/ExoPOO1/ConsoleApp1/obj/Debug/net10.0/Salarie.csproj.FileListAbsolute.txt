@@ -1,0 +1,14 @@
+C:\Users\boutr\source\repos\ExoPOO1\ConsoleApp1\bin\Debug\net10.0\Salarie.exe
+C:\Users\boutr\source\repos\ExoPOO1\ConsoleApp1\bin\Debug\net10.0\Salarie.deps.json
+C:\Users\boutr\source\repos\ExoPOO1\ConsoleApp1\bin\Debug\net10.0\Salarie.runtimeconfig.json
+C:\Users\boutr\source\repos\ExoPOO1\ConsoleApp1\bin\Debug\net10.0\Salarie.dll
+C:\Users\boutr\source\repos\ExoPOO1\ConsoleApp1\bin\Debug\net10.0\Salarie.pdb
+C:\Users\boutr\source\repos\ExoPOO1\ConsoleApp1\obj\Debug\net10.0\Salarie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\boutr\source\repos\ExoPOO1\ConsoleApp1\obj\Debug\net10.0\Salarie.AssemblyInfoInputs.cache
+C:\Users\boutr\source\repos\ExoPOO1\ConsoleApp1\obj\Debug\net10.0\Salarie.AssemblyInfo.cs
+C:\Users\boutr\source\repos\ExoPOO1\ConsoleApp1\obj\Debug\net10.0\Salarie.csproj.CoreCompileInputs.cache
+C:\Users\boutr\source\repos\ExoPOO1\ConsoleApp1\obj\Debug\net10.0\Salarie.dll
+C:\Users\boutr\source\repos\ExoPOO1\ConsoleApp1\obj\Debug\net10.0\refint\Salarie.dll
+C:\Users\boutr\source\repos\ExoPOO1\ConsoleApp1\obj\Debug\net10.0\Salarie.pdb
+C:\Users\boutr\source\repos\ExoPOO1\ConsoleApp1\obj\Debug\net10.0\Salarie.genruntimeconfig.cache
+C:\Users\boutr\source\repos\ExoPOO1\ConsoleApp1\obj\Debug\net10.0\ref\Salarie.dll

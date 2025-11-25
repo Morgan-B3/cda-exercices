@@ -1,0 +1,14 @@
+C:\Users\boutr\source\repos\ExoPOO1\Pendu\bin\Debug\net10.0\Pendu.exe
+C:\Users\boutr\source\repos\ExoPOO1\Pendu\bin\Debug\net10.0\Pendu.deps.json
+C:\Users\boutr\source\repos\ExoPOO1\Pendu\bin\Debug\net10.0\Pendu.runtimeconfig.json
+C:\Users\boutr\source\repos\ExoPOO1\Pendu\bin\Debug\net10.0\Pendu.dll
+C:\Users\boutr\source\repos\ExoPOO1\Pendu\bin\Debug\net10.0\Pendu.pdb
+C:\Users\boutr\source\repos\ExoPOO1\Pendu\obj\Debug\net10.0\Pendu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\boutr\source\repos\ExoPOO1\Pendu\obj\Debug\net10.0\Pendu.AssemblyInfoInputs.cache
+C:\Users\boutr\source\repos\ExoPOO1\Pendu\obj\Debug\net10.0\Pendu.AssemblyInfo.cs
+C:\Users\boutr\source\repos\ExoPOO1\Pendu\obj\Debug\net10.0\Pendu.csproj.CoreCompileInputs.cache
+C:\Users\boutr\source\repos\ExoPOO1\Pendu\obj\Debug\net10.0\Pendu.dll
+C:\Users\boutr\source\repos\ExoPOO1\Pendu\obj\Debug\net10.0\refint\Pendu.dll
+C:\Users\boutr\source\repos\ExoPOO1\Pendu\obj\Debug\net10.0\Pendu.pdb
+C:\Users\boutr\source\repos\ExoPOO1\Pendu\obj\Debug\net10.0\Pendu.genruntimeconfig.cache
+C:\Users\boutr\source\repos\ExoPOO1\Pendu\obj\Debug\net10.0\ref\Pendu.dll

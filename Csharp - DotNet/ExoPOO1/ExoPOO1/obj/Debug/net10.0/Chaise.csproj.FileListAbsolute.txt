@@ -1,0 +1,14 @@
+C:\Users\boutr\source\repos\ExoPOO1\ExoPOO1\bin\Debug\net10.0\Chaise.exe
+C:\Users\boutr\source\repos\ExoPOO1\ExoPOO1\bin\Debug\net10.0\Chaise.deps.json
+C:\Users\boutr\source\repos\ExoPOO1\ExoPOO1\bin\Debug\net10.0\Chaise.runtimeconfig.json
+C:\Users\boutr\source\repos\ExoPOO1\ExoPOO1\bin\Debug\net10.0\Chaise.dll
+C:\Users\boutr\source\repos\ExoPOO1\ExoPOO1\bin\Debug\net10.0\Chaise.pdb
+C:\Users\boutr\source\repos\ExoPOO1\ExoPOO1\obj\Debug\net10.0\Chaise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\boutr\source\repos\ExoPOO1\ExoPOO1\obj\Debug\net10.0\Chaise.AssemblyInfoInputs.cache
+C:\Users\boutr\source\repos\ExoPOO1\ExoPOO1\obj\Debug\net10.0\Chaise.AssemblyInfo.cs
+C:\Users\boutr\source\repos\ExoPOO1\ExoPOO1\obj\Debug\net10.0\Chaise.csproj.CoreCompileInputs.cache
+C:\Users\boutr\source\repos\ExoPOO1\ExoPOO1\obj\Debug\net10.0\Chaise.dll
+C:\Users\boutr\source\repos\ExoPOO1\ExoPOO1\obj\Debug\net10.0\refint\Chaise.dll
+C:\Users\boutr\source\repos\ExoPOO1\ExoPOO1\obj\Debug\net10.0\Chaise.pdb
+C:\Users\boutr\source\repos\ExoPOO1\ExoPOO1\obj\Debug\net10.0\Chaise.genruntimeconfig.cache
+C:\Users\boutr\source\repos\ExoPOO1\ExoPOO1\obj\Debug\net10.0\ref\Chaise.dll
