@@ -1,0 +1,15 @@
+C:\Users\boutr\Desktop\cda-exercices\Csharp - DotNet\ExoPOO1\Pile\bin\Debug\net10.0\Pile.exe
+C:\Users\boutr\Desktop\cda-exercices\Csharp - DotNet\ExoPOO1\Pile\bin\Debug\net10.0\Pile.deps.json
+C:\Users\boutr\Desktop\cda-exercices\Csharp - DotNet\ExoPOO1\Pile\bin\Debug\net10.0\Pile.runtimeconfig.json
+C:\Users\boutr\Desktop\cda-exercices\Csharp - DotNet\ExoPOO1\Pile\bin\Debug\net10.0\Pile.dll
+C:\Users\boutr\Desktop\cda-exercices\Csharp - DotNet\ExoPOO1\Pile\bin\Debug\net10.0\Pile.pdb
+C:\Users\boutr\Desktop\cda-exercices\Csharp - DotNet\ExoPOO1\Pile\obj\Debug\net10.0\Pile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\boutr\Desktop\cda-exercices\Csharp - DotNet\ExoPOO1\Pile\obj\Debug\net10.0\Pile.AssemblyInfoInputs.cache
+C:\Users\boutr\Desktop\cda-exercices\Csharp - DotNet\ExoPOO1\Pile\obj\Debug\net10.0\Pile.AssemblyInfo.cs
+C:\Users\boutr\Desktop\cda-exercices\Csharp - DotNet\ExoPOO1\Pile\obj\Debug\net10.0\Pile.csproj.CoreCompileInputs.cache
+C:\Users\boutr\Desktop\cda-exercices\Csharp - DotNet\ExoPOO1\Pile\obj\Debug\net10.0\Pile.sourcelink.json
+C:\Users\boutr\Desktop\cda-exercices\Csharp - DotNet\ExoPOO1\Pile\obj\Debug\net10.0\Pile.dll
+C:\Users\boutr\Desktop\cda-exercices\Csharp - DotNet\ExoPOO1\Pile\obj\Debug\net10.0\refint\Pile.dll
+C:\Users\boutr\Desktop\cda-exercices\Csharp - DotNet\ExoPOO1\Pile\obj\Debug\net10.0\Pile.pdb
+C:\Users\boutr\Desktop\cda-exercices\Csharp - DotNet\ExoPOO1\Pile\obj\Debug\net10.0\Pile.genruntimeconfig.cache
+C:\Users\boutr\Desktop\cda-exercices\Csharp - DotNet\ExoPOO1\Pile\obj\Debug\net10.0\ref\Pile.dll

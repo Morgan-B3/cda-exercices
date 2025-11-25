@@ -2,5 +2,7 @@
   <Project Path="CompteBancaire/CompteBancaire.csproj" />
   <Project Path="ConsoleApp1/Salarie.csproj" />
   <Project Path="ExoPOO1/Chaise.csproj" />
+  <Project Path="Figure/Figure.csproj" Id="81ffc73e-6c20-49d3-9c0e-deb576d65713" />
   <Project Path="Pendu/Pendu.csproj" />
+  <Project Path="Pile/Pile.csproj" Id="05c329f0-95fa-4d0f-a687-197233cf8a60" />
 </Solution>

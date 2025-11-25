@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CompteBancaire")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+11266064632bbbf11674a542a88e754cba63da64")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4f25004777c44dc83d2f4fc44c26597b2cc268ef")]
 [assembly: System.Reflection.AssemblyProductAttribute("CompteBancaire")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CompteBancaire")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
