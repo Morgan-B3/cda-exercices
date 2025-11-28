@@ -1,4 +1,5 @@
 <Solution>
   <Project Path="Exercice1/Exercice1.csproj" />
   <Project Path="Exercice2/Exercice2.csproj" Id="fc30c43b-de10-4357-bdb5-57cbde16a050" />
+  <Project Path="Exercice3/Exercice3.csproj" Id="377cc396-8c38-454a-b491-1311baa92b21" />
 </Solution>

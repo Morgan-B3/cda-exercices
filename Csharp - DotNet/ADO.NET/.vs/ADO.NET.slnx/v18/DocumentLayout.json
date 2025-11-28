@@ -3,47 +3,46 @@
   "WorkspaceRootPath": "C:\\Users\\boutr\\Desktop\\cda-exercices\\Csharp - DotNet\\ADO.NET\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FC30C43B-DE10-4357-BDB5-57CBDE16A050}|Exercice2\\Exercice2.csproj|c:\\users\\boutr\\desktop\\cda-exercices\\csharp - dotnet\\ado.net\\exercice2\\classes\\ihm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FC30C43B-DE10-4357-BDB5-57CBDE16A050}|Exercice2\\Exercice2.csproj|solutionrelative:exercice2\\classes\\ihm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{377CC396-8C38-454A-B491-1311BAA92B21}|Exercice3\\Exercice3.csproj|c:\\users\\boutr\\desktop\\cda-exercices\\csharp - dotnet\\ado.net\\exercice3\\classes\\ihm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{377CC396-8C38-454A-B491-1311BAA92B21}|Exercice3\\Exercice3.csproj|solutionrelative:exercice3\\classes\\ihm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FC30C43B-DE10-4357-BDB5-57CBDE16A050}|Exercice2\\Exercice2.csproj|c:\\users\\boutr\\desktop\\cda-exercices\\csharp - dotnet\\ado.net\\exercice2\\dao\\commandedao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FC30C43B-DE10-4357-BDB5-57CBDE16A050}|Exercice2\\Exercice2.csproj|solutionrelative:exercice2\\dao\\commandedao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{377CC396-8C38-454A-B491-1311BAA92B21}|Exercice3\\Exercice3.csproj|c:\\users\\boutr\\desktop\\cda-exercices\\csharp - dotnet\\ado.net\\exercice3\\dao\\empruntdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{377CC396-8C38-454A-B491-1311BAA92B21}|Exercice3\\Exercice3.csproj|solutionrelative:exercice3\\dao\\empruntdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FC30C43B-DE10-4357-BDB5-57CBDE16A050}|Exercice2\\Exercice2.csproj|c:\\users\\boutr\\desktop\\cda-exercices\\csharp - dotnet\\ado.net\\exercice2\\dao\\clientdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FC30C43B-DE10-4357-BDB5-57CBDE16A050}|Exercice2\\Exercice2.csproj|solutionrelative:exercice2\\dao\\clientdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{377CC396-8C38-454A-B491-1311BAA92B21}|Exercice3\\Exercice3.csproj|c:\\users\\boutr\\desktop\\cda-exercices\\csharp - dotnet\\ado.net\\exercice3\\classes\\emprunt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{377CC396-8C38-454A-B491-1311BAA92B21}|Exercice3\\Exercice3.csproj|solutionrelative:exercice3\\classes\\emprunt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FC30C43B-DE10-4357-BDB5-57CBDE16A050}|Exercice2\\Exercice2.csproj|c:\\users\\boutr\\desktop\\cda-exercices\\csharp - dotnet\\ado.net\\exercice2\\script-db.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
-      "RelativeMoniker": "D:0:0:{FC30C43B-DE10-4357-BDB5-57CBDE16A050}|Exercice2\\Exercice2.csproj|solutionrelative:exercice2\\script-db.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+      "AbsoluteMoniker": "D:0:0:{377CC396-8C38-454A-B491-1311BAA92B21}|Exercice3\\Exercice3.csproj|c:\\users\\boutr\\desktop\\cda-exercices\\csharp - dotnet\\ado.net\\exercice3\\dao\\membredao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{377CC396-8C38-454A-B491-1311BAA92B21}|Exercice3\\Exercice3.csproj|solutionrelative:exercice3\\dao\\membredao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FC30C43B-DE10-4357-BDB5-57CBDE16A050}|Exercice2\\Exercice2.csproj|c:\\users\\boutr\\desktop\\cda-exercices\\csharp - dotnet\\ado.net\\exercice2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FC30C43B-DE10-4357-BDB5-57CBDE16A050}|Exercice2\\Exercice2.csproj|solutionrelative:exercice2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{377CC396-8C38-454A-B491-1311BAA92B21}|Exercice3\\Exercice3.csproj|c:\\users\\boutr\\desktop\\cda-exercices\\csharp - dotnet\\ado.net\\exercice3\\dao\\livredao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{377CC396-8C38-454A-B491-1311BAA92B21}|Exercice3\\Exercice3.csproj|solutionrelative:exercice3\\dao\\livredao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FC30C43B-DE10-4357-BDB5-57CBDE16A050}|Exercice2\\Exercice2.csproj|c:\\users\\boutr\\desktop\\cda-exercices\\csharp - dotnet\\ado.net\\exercice2\\classes\\commande.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FC30C43B-DE10-4357-BDB5-57CBDE16A050}|Exercice2\\Exercice2.csproj|solutionrelative:exercice2\\classes\\commande.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{377CC396-8C38-454A-B491-1311BAA92B21}|Exercice3\\Exercice3.csproj|c:\\users\\boutr\\desktop\\cda-exercices\\csharp - dotnet\\ado.net\\exercice3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{377CC396-8C38-454A-B491-1311BAA92B21}|Exercice3\\Exercice3.csproj|solutionrelative:exercice3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FC30C43B-DE10-4357-BDB5-57CBDE16A050}|Exercice2\\Exercice2.csproj|c:\\users\\boutr\\desktop\\cda-exercices\\csharp - dotnet\\ado.net\\exercice2\\classes\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FC30C43B-DE10-4357-BDB5-57CBDE16A050}|Exercice2\\Exercice2.csproj|solutionrelative:exercice2\\classes\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\boutr\\Desktop\\CDA5_2ITECH\\16 - .Net\\05 - ADO.NET\\ADO.NET\\Exo02Commande\\DAO\\ClientDAO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FC30C43B-DE10-4357-BDB5-57CBDE16A050}|Exercice2\\Exercice2.csproj|c:\\users\\boutr\\desktop\\cda-exercices\\csharp - dotnet\\ado.net\\exercice2\\dao\\basedao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FC30C43B-DE10-4357-BDB5-57CBDE16A050}|Exercice2\\Exercice2.csproj|solutionrelative:exercice2\\dao\\basedao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{377CC396-8C38-454A-B491-1311BAA92B21}|Exercice3\\Exercice3.csproj|c:\\users\\boutr\\desktop\\cda-exercices\\csharp - dotnet\\ado.net\\exercice3\\dao\\ibasedao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{377CC396-8C38-454A-B491-1311BAA92B21}|Exercice3\\Exercice3.csproj|solutionrelative:exercice3\\dao\\ibasedao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\boutr\\Desktop\\CDA5_2ITECH\\16 - .Net\\05 - ADO.NET\\ADO.NET\\Exo01Student\\Classes\\Etudiant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{377CC396-8C38-454A-B491-1311BAA92B21}|Exercice3\\Exercice3.csproj|c:\\users\\boutr\\desktop\\cda-exercices\\csharp - dotnet\\ado.net\\exercice3\\classes\\membre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{377CC396-8C38-454A-B491-1311BAA92B21}|Exercice3\\Exercice3.csproj|solutionrelative:exercice3\\classes\\membre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FC30C43B-DE10-4357-BDB5-57CBDE16A050}|Exercice2\\Exercice2.csproj|c:\\users\\boutr\\desktop\\cda-exercices\\csharp - dotnet\\ado.net\\exercice2\\script-db.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
-      "RelativeMoniker": "D:0:0:{FC30C43B-DE10-4357-BDB5-57CBDE16A050}|Exercice2\\Exercice2.csproj|solutionrelative:exercice2\\script-db.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
+      "AbsoluteMoniker": "D:0:0:{377CC396-8C38-454A-B491-1311BAA92B21}|Exercice3\\Exercice3.csproj|c:\\users\\boutr\\desktop\\cda-exercices\\csharp - dotnet\\ado.net\\exercice3\\classes\\livre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{377CC396-8C38-454A-B491-1311BAA92B21}|Exercice3\\Exercice3.csproj|solutionrelative:exercice3\\classes\\livre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FC30C43B-DE10-4357-BDB5-57CBDE16A050}|Exercice2\\Exercice2.csproj|c:\\users\\boutr\\desktop\\cda-exercices\\csharp - dotnet\\ado.net\\exercice2\\script-db.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|ResultFrame",
-      "RelativeMoniker": "D:0:0:{FC30C43B-DE10-4357-BDB5-57CBDE16A050}|Exercice2\\Exercice2.csproj|solutionrelative:exercice2\\script-db.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|ResultFrame"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\boutr\\Desktop\\CDA5_2ITECH\\16 - .Net\\05 - ADO.NET\\ADO.NET\\Exo02Commande\\DAO\\CommandeDAO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -53,122 +52,149 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "script-db.sql ",
-              "DocumentMoniker": "C:\\Users\\boutr\\Desktop\\cda-exercices\\Csharp - DotNet\\ADO.NET\\Exercice2\\script-db.sql",
-              "RelativeDocumentMoniker": "Exercice2\\script-db.sql",
-              "ToolTip": "C:\\Users\\boutr\\Desktop\\cda-exercices\\Csharp - DotNet\\ADO.NET\\Exercice2\\script-db.sql",
-              "RelativeToolTip": "Exercice2\\script-db.sql",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2025-11-27T15:05:42.263Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\boutr\\Desktop\\cda-exercices\\Csharp - DotNet\\ADO.NET\\Exercice2\\Program.cs",
-              "RelativeDocumentMoniker": "Exercice2\\Program.cs",
-              "ToolTip": "C:\\Users\\boutr\\Desktop\\cda-exercices\\Csharp - DotNet\\ADO.NET\\Exercice2\\Program.cs",
-              "RelativeToolTip": "Exercice2\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAALAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\boutr\\Desktop\\cda-exercices\\Csharp - DotNet\\ADO.NET\\Exercice3\\Program.cs",
+              "RelativeDocumentMoniker": "Exercice3\\Program.cs",
+              "ToolTip": "C:\\Users\\boutr\\Desktop\\cda-exercices\\Csharp - DotNet\\ADO.NET\\Exercice3\\Program.cs",
+              "RelativeToolTip": "Exercice3\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-27T15:04:58.109Z",
+              "WhenOpened": "2025-11-28T15:50:28.619Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "IHM.cs",
-              "DocumentMoniker": "C:\\Users\\boutr\\Desktop\\cda-exercices\\Csharp - DotNet\\ADO.NET\\Exercice2\\Classes\\IHM.cs",
-              "RelativeDocumentMoniker": "Exercice2\\Classes\\IHM.cs",
-              "ToolTip": "C:\\Users\\boutr\\Desktop\\cda-exercices\\Csharp - DotNet\\ADO.NET\\Exercice2\\Classes\\IHM.cs",
-              "RelativeToolTip": "Exercice2\\Classes\\IHM.cs",
-              "ViewState": "AgIAAHUAAAAAAAAAAAAcwLsAAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\boutr\\Desktop\\cda-exercices\\Csharp - DotNet\\ADO.NET\\Exercice3\\Classes\\IHM.cs",
+              "RelativeDocumentMoniker": "Exercice3\\Classes\\IHM.cs",
+              "ToolTip": "C:\\Users\\boutr\\Desktop\\cda-exercices\\Csharp - DotNet\\ADO.NET\\Exercice3\\Classes\\IHM.cs",
+              "RelativeToolTip": "Exercice3\\Classes\\IHM.cs",
+              "ViewState": "AgIAAPEAAAAAAAAAAAAawPsAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-27T14:28:58.531Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Etudiant.cs",
-              "DocumentMoniker": "C:\\Users\\boutr\\Desktop\\CDA5_2ITECH\\16 - .Net\\05 - ADO.NET\\ADO.NET\\Exo01Student\\Classes\\Etudiant.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\CDA5_2ITECH\\16 - .Net\\05 - ADO.NET\\ADO.NET\\Exo01Student\\Classes\\Etudiant.cs",
-              "ToolTip": "C:\\Users\\boutr\\Desktop\\CDA5_2ITECH\\16 - .Net\\05 - ADO.NET\\ADO.NET\\Exo01Student\\Classes\\Etudiant.cs",
-              "RelativeToolTip": "..\\..\\..\\CDA5_2ITECH\\16 - .Net\\05 - ADO.NET\\ADO.NET\\Exo01Student\\Classes\\Etudiant.cs",
-              "ViewState": "AgIAACEAAAAAAAAAAAAAAEYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-27T13:17:28.093Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Commande.cs",
-              "DocumentMoniker": "C:\\Users\\boutr\\Desktop\\cda-exercices\\Csharp - DotNet\\ADO.NET\\Exercice2\\Classes\\Commande.cs",
-              "RelativeDocumentMoniker": "Exercice2\\Classes\\Commande.cs",
-              "ToolTip": "C:\\Users\\boutr\\Desktop\\cda-exercices\\Csharp - DotNet\\ADO.NET\\Exercice2\\Classes\\Commande.cs",
-              "RelativeToolTip": "Exercice2\\Classes\\Commande.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAApwA0AAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-27T10:35:04.962Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Client.cs",
-              "DocumentMoniker": "C:\\Users\\boutr\\Desktop\\cda-exercices\\Csharp - DotNet\\ADO.NET\\Exercice2\\Classes\\Client.cs",
-              "RelativeDocumentMoniker": "Exercice2\\Classes\\Client.cs",
-              "ToolTip": "C:\\Users\\boutr\\Desktop\\cda-exercices\\Csharp - DotNet\\ADO.NET\\Exercice2\\Classes\\Client.cs",
-              "RelativeToolTip": "Exercice2\\Classes\\Client.cs",
-              "ViewState": "AgIAACgAAAAAAAAAAAAQwDUAAABZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-27T10:30:00.301Z",
+              "WhenOpened": "2025-11-28T15:35:31.452Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "CommandeDAO.cs",
-              "DocumentMoniker": "C:\\Users\\boutr\\Desktop\\cda-exercices\\Csharp - DotNet\\ADO.NET\\Exercice2\\DAO\\CommandeDAO.cs",
-              "RelativeDocumentMoniker": "Exercice2\\DAO\\CommandeDAO.cs",
-              "ToolTip": "C:\\Users\\boutr\\Desktop\\cda-exercices\\Csharp - DotNet\\ADO.NET\\Exercice2\\DAO\\CommandeDAO.cs",
-              "RelativeToolTip": "Exercice2\\DAO\\CommandeDAO.cs",
-              "ViewState": "AgIAACIAAAAAAAAAAAAQwEwAAABkAAAAAAAAAA==",
+              "Title": "EmpruntDAO.cs",
+              "DocumentMoniker": "C:\\Users\\boutr\\Desktop\\cda-exercices\\Csharp - DotNet\\ADO.NET\\Exercice3\\DAO\\EmpruntDAO.cs",
+              "RelativeDocumentMoniker": "Exercice3\\DAO\\EmpruntDAO.cs",
+              "ToolTip": "C:\\Users\\boutr\\Desktop\\cda-exercices\\Csharp - DotNet\\ADO.NET\\Exercice3\\DAO\\EmpruntDAO.cs",
+              "RelativeToolTip": "Exercice3\\DAO\\EmpruntDAO.cs",
+              "ViewState": "AgIAALUAAAAAAAAAAAAawMQAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-27T10:26:34.451Z",
+              "WhenOpened": "2025-11-28T10:05:31.033Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ClientDAO.cs",
-              "DocumentMoniker": "C:\\Users\\boutr\\Desktop\\cda-exercices\\Csharp - DotNet\\ADO.NET\\Exercice2\\DAO\\ClientDAO.cs",
-              "RelativeDocumentMoniker": "Exercice2\\DAO\\ClientDAO.cs",
-              "ToolTip": "C:\\Users\\boutr\\Desktop\\cda-exercices\\Csharp - DotNet\\ADO.NET\\Exercice2\\DAO\\ClientDAO.cs",
-              "RelativeToolTip": "Exercice2\\DAO\\ClientDAO.cs",
-              "ViewState": "AgIAAGAAAAAAAAAAAAAAAG8AAAAAAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "MembreDAO.cs",
+              "DocumentMoniker": "C:\\Users\\boutr\\Desktop\\cda-exercices\\Csharp - DotNet\\ADO.NET\\Exercice3\\DAO\\MembreDAO.cs",
+              "RelativeDocumentMoniker": "Exercice3\\DAO\\MembreDAO.cs",
+              "ToolTip": "C:\\Users\\boutr\\Desktop\\cda-exercices\\Csharp - DotNet\\ADO.NET\\Exercice3\\DAO\\MembreDAO.cs",
+              "RelativeToolTip": "Exercice3\\DAO\\MembreDAO.cs",
+              "ViewState": "AgIAAFgAAAAAAAAAAAAkwFwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-27T10:26:11.216Z",
+              "WhenOpened": "2025-11-28T10:05:22.652Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LivreDAO.cs",
+              "DocumentMoniker": "C:\\Users\\boutr\\Desktop\\cda-exercices\\Csharp - DotNet\\ADO.NET\\Exercice3\\DAO\\LivreDAO.cs",
+              "RelativeDocumentMoniker": "Exercice3\\DAO\\LivreDAO.cs",
+              "ToolTip": "C:\\Users\\boutr\\Desktop\\cda-exercices\\Csharp - DotNet\\ADO.NET\\Exercice3\\DAO\\LivreDAO.cs",
+              "RelativeToolTip": "Exercice3\\DAO\\LivreDAO.cs",
+              "ViewState": "AgIAAGYAAAAAAAAAAAAAAGsAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T10:05:10.325Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CommandeDAO.cs",
+              "DocumentMoniker": "C:\\Users\\boutr\\Desktop\\CDA5_2ITECH\\16 - .Net\\05 - ADO.NET\\ADO.NET\\Exo02Commande\\DAO\\CommandeDAO.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\CDA5_2ITECH\\16 - .Net\\05 - ADO.NET\\ADO.NET\\Exo02Commande\\DAO\\CommandeDAO.cs",
+              "ToolTip": "C:\\Users\\boutr\\Desktop\\CDA5_2ITECH\\16 - .Net\\05 - ADO.NET\\ADO.NET\\Exo02Commande\\DAO\\CommandeDAO.cs",
+              "RelativeToolTip": "..\\..\\..\\CDA5_2ITECH\\16 - .Net\\05 - ADO.NET\\ADO.NET\\Exo02Commande\\DAO\\CommandeDAO.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAWwCYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T10:02:30.202Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ClientDAO.cs",
+              "DocumentMoniker": "C:\\Users\\boutr\\Desktop\\CDA5_2ITECH\\16 - .Net\\05 - ADO.NET\\ADO.NET\\Exo02Commande\\DAO\\ClientDAO.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\CDA5_2ITECH\\16 - .Net\\05 - ADO.NET\\ADO.NET\\Exo02Commande\\DAO\\ClientDAO.cs",
+              "ToolTip": "C:\\Users\\boutr\\Desktop\\CDA5_2ITECH\\16 - .Net\\05 - ADO.NET\\ADO.NET\\Exo02Commande\\DAO\\ClientDAO.cs",
+              "RelativeToolTip": "..\\..\\..\\CDA5_2ITECH\\16 - .Net\\05 - ADO.NET\\ADO.NET\\Exo02Commande\\DAO\\ClientDAO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T10:02:21.711Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "BaseDAO.cs",
-              "DocumentMoniker": "C:\\Users\\boutr\\Desktop\\cda-exercices\\Csharp - DotNet\\ADO.NET\\Exercice2\\DAO\\BaseDAO.cs",
-              "RelativeDocumentMoniker": "Exercice2\\DAO\\BaseDAO.cs",
-              "ToolTip": "C:\\Users\\boutr\\Desktop\\cda-exercices\\Csharp - DotNet\\ADO.NET\\Exercice2\\DAO\\BaseDAO.cs",
-              "RelativeToolTip": "Exercice2\\DAO\\BaseDAO.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAA1AAAAAAAAAA==",
+              "Title": "IBaseDAO.cs",
+              "DocumentMoniker": "C:\\Users\\boutr\\Desktop\\cda-exercices\\Csharp - DotNet\\ADO.NET\\Exercice3\\DAO\\IBaseDAO.cs",
+              "RelativeDocumentMoniker": "Exercice3\\DAO\\IBaseDAO.cs",
+              "ToolTip": "C:\\Users\\boutr\\Desktop\\cda-exercices\\Csharp - DotNet\\ADO.NET\\Exercice3\\DAO\\IBaseDAO.cs",
+              "RelativeToolTip": "Exercice3\\DAO\\IBaseDAO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-27T10:25:49.544Z",
+              "WhenOpened": "2025-11-28T10:00:44.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Emprunt.cs",
+              "DocumentMoniker": "C:\\Users\\boutr\\Desktop\\cda-exercices\\Csharp - DotNet\\ADO.NET\\Exercice3\\Classes\\Emprunt.cs",
+              "RelativeDocumentMoniker": "Exercice3\\Classes\\Emprunt.cs",
+              "ToolTip": "C:\\Users\\boutr\\Desktop\\cda-exercices\\Csharp - DotNet\\ADO.NET\\Exercice3\\Classes\\Emprunt.cs",
+              "RelativeToolTip": "Exercice3\\Classes\\Emprunt.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAAB8AAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T08:47:34.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Membre.cs",
+              "DocumentMoniker": "C:\\Users\\boutr\\Desktop\\cda-exercices\\Csharp - DotNet\\ADO.NET\\Exercice3\\Classes\\Membre.cs",
+              "RelativeDocumentMoniker": "Exercice3\\Classes\\Membre.cs",
+              "ToolTip": "C:\\Users\\boutr\\Desktop\\cda-exercices\\Csharp - DotNet\\ADO.NET\\Exercice3\\Classes\\Membre.cs",
+              "RelativeToolTip": "Exercice3\\Classes\\Membre.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAADwvyAAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T08:45:43.735Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Livre.cs",
+              "DocumentMoniker": "C:\\Users\\boutr\\Desktop\\cda-exercices\\Csharp - DotNet\\ADO.NET\\Exercice3\\Classes\\Livre.cs",
+              "RelativeDocumentMoniker": "Exercice3\\Classes\\Livre.cs",
+              "ToolTip": "C:\\Users\\boutr\\Desktop\\cda-exercices\\Csharp - DotNet\\ADO.NET\\Exercice3\\Classes\\Livre.cs",
+              "RelativeToolTip": "Exercice3\\Classes\\Livre.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAswA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T08:43:26.346Z",
               "EditorCaption": ""
             }
           ]
