@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\boutr\\Desktop\\cda-exercices\\Csharp - DotNet\\EFCore exercices\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AB315F76-C467-4F16-B191-7B1EBF5038BB}|EFCore exercices\\EFCore exercices.csproj|c:\\users\\boutr\\desktop\\cda-exercices\\csharp - dotnet\\efcore exercices\\efcore exercices\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB315F76-C467-4F16-B191-7B1EBF5038BB}|EFCore exercices\\EFCore exercices.csproj|solutionrelative:efcore exercices\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\boutr\\Desktop\\cda-exercices\\Csharp - DotNet\\EFCore exercices\\EFCore exercices\\Program.cs",
+              "RelativeDocumentMoniker": "EFCore exercices\\Program.cs",
+              "ToolTip": "C:\\Users\\boutr\\Desktop\\cda-exercices\\Csharp - DotNet\\EFCore exercices\\EFCore exercices\\Program.cs",
+              "RelativeToolTip": "EFCore exercices\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T10:46:19.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
