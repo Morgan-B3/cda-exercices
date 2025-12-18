@@ -68,6 +68,7 @@ public class UserServiceClass : IService<UserDtoReceive, UserDtoSend>
     {
         UserDtoSend userDtoSend = new UserDtoSend()
         {
+            Id = user.Id,
             Name = user.Name,
             Email = user.Email,
         };
