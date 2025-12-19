@@ -1,0 +1,343 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\boutr\\Desktop\\cda-exercices\\Csharp - DotNet\\MicroHexa\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{624E95EE-6273-4EDA-8F19-AF77CBAF47B5}|Dashboard\\Dashboard.csproj|c:\\users\\boutr\\desktop\\cda-exercices\\csharp - dotnet\\microhexa\\dashboard\\infrastructure\\http\\transporthttpclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{624E95EE-6273-4EDA-8F19-AF77CBAF47B5}|Dashboard\\Dashboard.csproj|solutionrelative:dashboard\\infrastructure\\http\\transporthttpclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{624E95EE-6273-4EDA-8F19-AF77CBAF47B5}|Dashboard\\Dashboard.csproj|c:\\users\\boutr\\desktop\\cda-exercices\\csharp - dotnet\\microhexa\\dashboard\\infrastructure\\http\\energyhttpclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{624E95EE-6273-4EDA-8F19-AF77CBAF47B5}|Dashboard\\Dashboard.csproj|solutionrelative:dashboard\\infrastructure\\http\\energyhttpclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{624E95EE-6273-4EDA-8F19-AF77CBAF47B5}|Dashboard\\Dashboard.csproj|c:\\users\\boutr\\desktop\\cda-exercices\\csharp - dotnet\\microhexa\\dashboard\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{624E95EE-6273-4EDA-8F19-AF77CBAF47B5}|Dashboard\\Dashboard.csproj|solutionrelative:dashboard\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAF9F12A-F407-457D-B07E-DFE4712DE33B}|ServiceEnergie\\ServiceEnergie.csproj|c:\\users\\boutr\\desktop\\cda-exercices\\csharp - dotnet\\microhexa\\serviceenergie\\application\\services\\energyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAF9F12A-F407-457D-B07E-DFE4712DE33B}|ServiceEnergie\\ServiceEnergie.csproj|solutionrelative:serviceenergie\\application\\services\\energyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{624E95EE-6273-4EDA-8F19-AF77CBAF47B5}|Dashboard\\Dashboard.csproj|c:\\users\\boutr\\desktop\\cda-exercices\\csharp - dotnet\\microhexa\\dashboard\\infrastructure\\http\\ienergyclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{624E95EE-6273-4EDA-8F19-AF77CBAF47B5}|Dashboard\\Dashboard.csproj|solutionrelative:dashboard\\infrastructure\\http\\ienergyclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{624E95EE-6273-4EDA-8F19-AF77CBAF47B5}|Dashboard\\Dashboard.csproj|c:\\users\\boutr\\desktop\\cda-exercices\\csharp - dotnet\\microhexa\\dashboard\\application\\services\\dashboardservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{624E95EE-6273-4EDA-8F19-AF77CBAF47B5}|Dashboard\\Dashboard.csproj|solutionrelative:dashboard\\application\\services\\dashboardservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{624E95EE-6273-4EDA-8F19-AF77CBAF47B5}|Dashboard\\Dashboard.csproj|c:\\users\\boutr\\desktop\\cda-exercices\\csharp - dotnet\\microhexa\\dashboard\\infrastructure\\http\\wastehttpclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{624E95EE-6273-4EDA-8F19-AF77CBAF47B5}|Dashboard\\Dashboard.csproj|solutionrelative:dashboard\\infrastructure\\http\\wastehttpclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{624E95EE-6273-4EDA-8F19-AF77CBAF47B5}|Dashboard\\Dashboard.csproj|c:\\users\\boutr\\desktop\\cda-exercices\\csharp - dotnet\\microhexa\\dashboard\\infrastructure\\http\\itransportclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{624E95EE-6273-4EDA-8F19-AF77CBAF47B5}|Dashboard\\Dashboard.csproj|solutionrelative:dashboard\\infrastructure\\http\\itransportclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{624E95EE-6273-4EDA-8F19-AF77CBAF47B5}|Dashboard\\Dashboard.csproj|c:\\users\\boutr\\desktop\\cda-exercices\\csharp - dotnet\\microhexa\\dashboard\\api\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{624E95EE-6273-4EDA-8F19-AF77CBAF47B5}|Dashboard\\Dashboard.csproj|solutionrelative:dashboard\\api\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{624E95EE-6273-4EDA-8F19-AF77CBAF47B5}|Dashboard\\Dashboard.csproj|c:\\users\\boutr\\desktop\\cda-exercices\\csharp - dotnet\\microhexa\\dashboard\\application\\services\\idashboardservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{624E95EE-6273-4EDA-8F19-AF77CBAF47B5}|Dashboard\\Dashboard.csproj|solutionrelative:dashboard\\application\\services\\idashboardservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{624E95EE-6273-4EDA-8F19-AF77CBAF47B5}|Dashboard\\Dashboard.csproj|c:\\users\\boutr\\desktop\\cda-exercices\\csharp - dotnet\\microhexa\\dashboard\\application\\dtos\\wastedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{624E95EE-6273-4EDA-8F19-AF77CBAF47B5}|Dashboard\\Dashboard.csproj|solutionrelative:dashboard\\application\\dtos\\wastedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{624E95EE-6273-4EDA-8F19-AF77CBAF47B5}|Dashboard\\Dashboard.csproj|c:\\users\\boutr\\desktop\\cda-exercices\\csharp - dotnet\\microhexa\\dashboard\\application\\dtos\\transportdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{624E95EE-6273-4EDA-8F19-AF77CBAF47B5}|Dashboard\\Dashboard.csproj|solutionrelative:dashboard\\application\\dtos\\transportdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{624E95EE-6273-4EDA-8F19-AF77CBAF47B5}|Dashboard\\Dashboard.csproj|c:\\users\\boutr\\desktop\\cda-exercices\\csharp - dotnet\\microhexa\\dashboard\\infrastructure\\http\\iwasteclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{624E95EE-6273-4EDA-8F19-AF77CBAF47B5}|Dashboard\\Dashboard.csproj|solutionrelative:dashboard\\infrastructure\\http\\iwasteclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{624E95EE-6273-4EDA-8F19-AF77CBAF47B5}|Dashboard\\Dashboard.csproj|c:\\users\\boutr\\desktop\\cda-exercices\\csharp - dotnet\\microhexa\\dashboard\\application\\dtos\\energydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{624E95EE-6273-4EDA-8F19-AF77CBAF47B5}|Dashboard\\Dashboard.csproj|solutionrelative:dashboard\\application\\dtos\\energydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{624E95EE-6273-4EDA-8F19-AF77CBAF47B5}|Dashboard\\Dashboard.csproj|c:\\users\\boutr\\desktop\\cda-exercices\\csharp - dotnet\\microhexa\\dashboard\\domain\\entities\\dashboardresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{624E95EE-6273-4EDA-8F19-AF77CBAF47B5}|Dashboard\\Dashboard.csproj|solutionrelative:dashboard\\domain\\entities\\dashboardresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E9B686A-988F-49B6-9D31-925DD1F43F7A}|ServiceDechets\\ServiceDechets.csproj|c:\\users\\boutr\\desktop\\cda-exercices\\csharp - dotnet\\microhexa\\servicedechets\\application\\services\\wasteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E9B686A-988F-49B6-9D31-925DD1F43F7A}|ServiceDechets\\ServiceDechets.csproj|solutionrelative:servicedechets\\application\\services\\wasteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EBE2EE0-E8A7-4E77-8FD6-1A2EF2C81644}|ServiceTransport\\ServiceTransport.csproj|c:\\users\\boutr\\desktop\\cda-exercices\\csharp - dotnet\\microhexa\\servicetransport\\application\\services\\transportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EBE2EE0-E8A7-4E77-8FD6-1A2EF2C81644}|ServiceTransport\\ServiceTransport.csproj|solutionrelative:servicetransport\\application\\services\\transportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EBE2EE0-E8A7-4E77-8FD6-1A2EF2C81644}|ServiceTransport\\ServiceTransport.csproj|c:\\users\\boutr\\desktop\\cda-exercices\\csharp - dotnet\\microhexa\\servicetransport\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EBE2EE0-E8A7-4E77-8FD6-1A2EF2C81644}|ServiceTransport\\ServiceTransport.csproj|solutionrelative:servicetransport\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAF9F12A-F407-457D-B07E-DFE4712DE33B}|ServiceEnergie\\ServiceEnergie.csproj|c:\\users\\boutr\\desktop\\cda-exercices\\csharp - dotnet\\microhexa\\serviceenergie\\domain\\entities\\energy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAF9F12A-F407-457D-B07E-DFE4712DE33B}|ServiceEnergie\\ServiceEnergie.csproj|solutionrelative:serviceenergie\\domain\\entities\\energy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\boutr\\Desktop\\cda-exercices\\Csharp - DotNet\\MicroHexa\\Dashboard\\Program.cs",
+              "RelativeDocumentMoniker": "Dashboard\\Program.cs",
+              "ToolTip": "C:\\Users\\boutr\\Desktop\\cda-exercices\\Csharp - DotNet\\MicroHexa\\Dashboard\\Program.cs",
+              "RelativeToolTip": "Dashboard\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T11:19:29.36Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DashboardService.cs",
+              "DocumentMoniker": "C:\\Users\\boutr\\Desktop\\cda-exercices\\Csharp - DotNet\\MicroHexa\\Dashboard\\Application\\Services\\DashboardService.cs",
+              "RelativeDocumentMoniker": "Dashboard\\Application\\Services\\DashboardService.cs",
+              "ToolTip": "C:\\Users\\boutr\\Desktop\\cda-exercices\\Csharp - DotNet\\MicroHexa\\Dashboard\\Application\\Services\\DashboardService.cs",
+              "RelativeToolTip": "Dashboard\\Application\\Services\\DashboardService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T11:15:33.115Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IDashboardService.cs",
+              "DocumentMoniker": "C:\\Users\\boutr\\Desktop\\cda-exercices\\Csharp - DotNet\\MicroHexa\\Dashboard\\Application\\Services\\IDashboardService.cs",
+              "RelativeDocumentMoniker": "Dashboard\\Application\\Services\\IDashboardService.cs",
+              "ToolTip": "C:\\Users\\boutr\\Desktop\\cda-exercices\\Csharp - DotNet\\MicroHexa\\Dashboard\\Application\\Services\\IDashboardService.cs",
+              "RelativeToolTip": "Dashboard\\Application\\Services\\IDashboardService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T11:15:02.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TransportHttpClient.cs",
+              "DocumentMoniker": "C:\\Users\\boutr\\Desktop\\cda-exercices\\Csharp - DotNet\\MicroHexa\\Dashboard\\Infrastructure\\Http\\TransportHttpClient.cs",
+              "RelativeDocumentMoniker": "Dashboard\\Infrastructure\\Http\\TransportHttpClient.cs",
+              "ToolTip": "C:\\Users\\boutr\\Desktop\\cda-exercices\\Csharp - DotNet\\MicroHexa\\Dashboard\\Infrastructure\\Http\\TransportHttpClient.cs",
+              "RelativeToolTip": "Dashboard\\Infrastructure\\Http\\TransportHttpClient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T11:08:41.089Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "WasteHttpClient.cs",
+              "DocumentMoniker": "C:\\Users\\boutr\\Desktop\\cda-exercices\\Csharp - DotNet\\MicroHexa\\Dashboard\\Infrastructure\\Http\\WasteHttpClient.cs",
+              "RelativeDocumentMoniker": "Dashboard\\Infrastructure\\Http\\WasteHttpClient.cs",
+              "ToolTip": "C:\\Users\\boutr\\Desktop\\cda-exercices\\Csharp - DotNet\\MicroHexa\\Dashboard\\Infrastructure\\Http\\WasteHttpClient.cs",
+              "RelativeToolTip": "Dashboard\\Infrastructure\\Http\\WasteHttpClient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T11:07:40.157Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EnergyHttpClient.cs",
+              "DocumentMoniker": "C:\\Users\\boutr\\Desktop\\cda-exercices\\Csharp - DotNet\\MicroHexa\\Dashboard\\Infrastructure\\Http\\EnergyHttpClient.cs",
+              "RelativeDocumentMoniker": "Dashboard\\Infrastructure\\Http\\EnergyHttpClient.cs",
+              "ToolTip": "C:\\Users\\boutr\\Desktop\\cda-exercices\\Csharp - DotNet\\MicroHexa\\Dashboard\\Infrastructure\\Http\\EnergyHttpClient.cs",
+              "RelativeToolTip": "Dashboard\\Infrastructure\\Http\\EnergyHttpClient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T11:07:18.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ITransportClient.cs",
+              "DocumentMoniker": "C:\\Users\\boutr\\Desktop\\cda-exercices\\Csharp - DotNet\\MicroHexa\\Dashboard\\Infrastructure\\Http\\ITransportClient.cs",
+              "RelativeDocumentMoniker": "Dashboard\\Infrastructure\\Http\\ITransportClient.cs",
+              "ToolTip": "C:\\Users\\boutr\\Desktop\\cda-exercices\\Csharp - DotNet\\MicroHexa\\Dashboard\\Infrastructure\\Http\\ITransportClient.cs",
+              "RelativeToolTip": "Dashboard\\Infrastructure\\Http\\ITransportClient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T11:06:43.539Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IWasteClient.cs",
+              "DocumentMoniker": "C:\\Users\\boutr\\Desktop\\cda-exercices\\Csharp - DotNet\\MicroHexa\\Dashboard\\Infrastructure\\Http\\IWasteClient.cs",
+              "RelativeDocumentMoniker": "Dashboard\\Infrastructure\\Http\\IWasteClient.cs",
+              "ToolTip": "C:\\Users\\boutr\\Desktop\\cda-exercices\\Csharp - DotNet\\MicroHexa\\Dashboard\\Infrastructure\\Http\\IWasteClient.cs",
+              "RelativeToolTip": "Dashboard\\Infrastructure\\Http\\IWasteClient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T11:06:14.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IEnergyClient.cs",
+              "DocumentMoniker": "C:\\Users\\boutr\\Desktop\\cda-exercices\\Csharp - DotNet\\MicroHexa\\Dashboard\\Infrastructure\\Http\\IEnergyClient.cs",
+              "RelativeDocumentMoniker": "Dashboard\\Infrastructure\\Http\\IEnergyClient.cs",
+              "ToolTip": "C:\\Users\\boutr\\Desktop\\cda-exercices\\Csharp - DotNet\\MicroHexa\\Dashboard\\Infrastructure\\Http\\IEnergyClient.cs",
+              "RelativeToolTip": "Dashboard\\Infrastructure\\Http\\IEnergyClient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T11:05:53.717Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TransportDto.cs",
+              "DocumentMoniker": "C:\\Users\\boutr\\Desktop\\cda-exercices\\Csharp - DotNet\\MicroHexa\\Dashboard\\Application\\DTOs\\TransportDto.cs",
+              "RelativeDocumentMoniker": "Dashboard\\Application\\DTOs\\TransportDto.cs",
+              "ToolTip": "C:\\Users\\boutr\\Desktop\\cda-exercices\\Csharp - DotNet\\MicroHexa\\Dashboard\\Application\\DTOs\\TransportDto.cs",
+              "RelativeToolTip": "Dashboard\\Application\\DTOs\\TransportDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T11:04:58.789Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "WasteDto.cs",
+              "DocumentMoniker": "C:\\Users\\boutr\\Desktop\\cda-exercices\\Csharp - DotNet\\MicroHexa\\Dashboard\\Application\\DTOs\\WasteDto.cs",
+              "RelativeDocumentMoniker": "Dashboard\\Application\\DTOs\\WasteDto.cs",
+              "ToolTip": "C:\\Users\\boutr\\Desktop\\cda-exercices\\Csharp - DotNet\\MicroHexa\\Dashboard\\Application\\DTOs\\WasteDto.cs",
+              "RelativeToolTip": "Dashboard\\Application\\DTOs\\WasteDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T11:04:40.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "EnergyDto.cs",
+              "DocumentMoniker": "C:\\Users\\boutr\\Desktop\\cda-exercices\\Csharp - DotNet\\MicroHexa\\Dashboard\\Application\\DTOs\\EnergyDto.cs",
+              "RelativeDocumentMoniker": "Dashboard\\Application\\DTOs\\EnergyDto.cs",
+              "ToolTip": "C:\\Users\\boutr\\Desktop\\cda-exercices\\Csharp - DotNet\\MicroHexa\\Dashboard\\Application\\DTOs\\EnergyDto.cs",
+              "RelativeToolTip": "Dashboard\\Application\\DTOs\\EnergyDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T11:04:24.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "DashboardResult.cs",
+              "DocumentMoniker": "C:\\Users\\boutr\\Desktop\\cda-exercices\\Csharp - DotNet\\MicroHexa\\Dashboard\\Domain\\Entities\\DashboardResult.cs",
+              "RelativeDocumentMoniker": "Dashboard\\Domain\\Entities\\DashboardResult.cs",
+              "ToolTip": "C:\\Users\\boutr\\Desktop\\cda-exercices\\Csharp - DotNet\\MicroHexa\\Dashboard\\Domain\\Entities\\DashboardResult.cs",
+              "RelativeToolTip": "Dashboard\\Domain\\Entities\\DashboardResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T11:03:52.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "C:\\Users\\boutr\\Desktop\\cda-exercices\\Csharp - DotNet\\MicroHexa\\Dashboard\\API\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "Dashboard\\API\\Controllers\\DashboardController.cs",
+              "ToolTip": "C:\\Users\\boutr\\Desktop\\cda-exercices\\Csharp - DotNet\\MicroHexa\\Dashboard\\API\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "Dashboard\\API\\Controllers\\DashboardController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T11:02:14.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "WasteService.cs",
+              "DocumentMoniker": "C:\\Users\\boutr\\Desktop\\cda-exercices\\Csharp - DotNet\\MicroHexa\\ServiceDechets\\Application\\Services\\WasteService.cs",
+              "RelativeDocumentMoniker": "ServiceDechets\\Application\\Services\\WasteService.cs",
+              "ToolTip": "C:\\Users\\boutr\\Desktop\\cda-exercices\\Csharp - DotNet\\MicroHexa\\ServiceDechets\\Application\\Services\\WasteService.cs",
+              "RelativeToolTip": "ServiceDechets\\Application\\Services\\WasteService.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T10:59:34.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "TransportService.cs",
+              "DocumentMoniker": "C:\\Users\\boutr\\Desktop\\cda-exercices\\Csharp - DotNet\\MicroHexa\\ServiceTransport\\Application\\Services\\TransportService.cs",
+              "RelativeDocumentMoniker": "ServiceTransport\\Application\\Services\\TransportService.cs",
+              "ToolTip": "C:\\Users\\boutr\\Desktop\\cda-exercices\\Csharp - DotNet\\MicroHexa\\ServiceTransport\\Application\\Services\\TransportService.cs",
+              "RelativeToolTip": "ServiceTransport\\Application\\Services\\TransportService.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAA7wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T10:56:49.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EnergyService.cs",
+              "DocumentMoniker": "C:\\Users\\boutr\\Desktop\\cda-exercices\\Csharp - DotNet\\MicroHexa\\ServiceEnergie\\Application\\Services\\EnergyService.cs",
+              "RelativeDocumentMoniker": "ServiceEnergie\\Application\\Services\\EnergyService.cs",
+              "ToolTip": "C:\\Users\\boutr\\Desktop\\cda-exercices\\Csharp - DotNet\\MicroHexa\\ServiceEnergie\\Application\\Services\\EnergyService.cs",
+              "RelativeToolTip": "ServiceEnergie\\Application\\Services\\EnergyService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T10:56:42.494Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\boutr\\Desktop\\cda-exercices\\Csharp - DotNet\\MicroHexa\\ServiceTransport\\Program.cs",
+              "RelativeDocumentMoniker": "ServiceTransport\\Program.cs",
+              "ToolTip": "C:\\Users\\boutr\\Desktop\\cda-exercices\\Csharp - DotNet\\MicroHexa\\ServiceTransport\\Program.cs",
+              "RelativeToolTip": "ServiceTransport\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T10:41:40.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Energy.cs",
+              "DocumentMoniker": "C:\\Users\\boutr\\Desktop\\cda-exercices\\Csharp - DotNet\\MicroHexa\\ServiceEnergie\\Domain\\Entities\\Energy.cs",
+              "RelativeDocumentMoniker": "ServiceEnergie\\Domain\\Entities\\Energy.cs",
+              "ToolTip": "C:\\Users\\boutr\\Desktop\\cda-exercices\\Csharp - DotNet\\MicroHexa\\ServiceEnergie\\Domain\\Entities\\Energy.cs",
+              "RelativeToolTip": "ServiceEnergie\\Domain\\Entities\\Energy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T10:12:51.36Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

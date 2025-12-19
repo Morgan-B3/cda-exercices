@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="Dashboard/Dashboard.csproj" />
+  <Project Path="ServiceDechets/ServiceDechets.csproj" />
+  <Project Path="ServiceEnergie/ServiceEnergie.csproj" />
+  <Project Path="ServiceTransport/ServiceTransport.csproj" />
+</Solution>

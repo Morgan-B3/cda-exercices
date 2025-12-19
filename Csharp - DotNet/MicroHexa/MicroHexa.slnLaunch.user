@@ -1,0 +1,23 @@
+[
+  {
+    "Name": "Nouveau profil",
+    "Projects": [
+      {
+        "Path": "ServiceEnergie\\ServiceEnergie.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "ServiceDechets\\ServiceDechets.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "ServiceTransport\\ServiceTransport.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "Dashboard\\Dashboard.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

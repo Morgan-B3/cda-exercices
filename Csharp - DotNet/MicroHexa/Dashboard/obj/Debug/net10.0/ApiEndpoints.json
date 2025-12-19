@@ -1,0 +1,12 @@
+[
+  {
+    "ContainingType": "Dashboard.API.Controllers.DashboardController",
+    "Method": "GetDashboard",
+    "RelativePath": "api/dashboard",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

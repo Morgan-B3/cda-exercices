@@ -1,0 +1,81 @@
+[
+  {
+    "ContainingType": "ServiceTransport.API.Controllers.TransportController",
+    "Method": "GetAll",
+    "RelativePath": "api/transport",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ServiceTransport.API.Controllers.TransportController",
+    "Method": "Create",
+    "RelativePath": "api/transport",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "ServiceTransport.Application.DTOs.TransportDtoReceive",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ServiceTransport.API.Controllers.TransportController",
+    "Method": "GetById",
+    "RelativePath": "api/transport/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ServiceTransport.API.Controllers.TransportController",
+    "Method": "Update",
+    "RelativePath": "api/transport/{id}",
+    "HttpMethod": "PATCH",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "dto",
+        "Type": "ServiceTransport.Application.DTOs.TransportDtoReceive",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ServiceTransport.API.Controllers.TransportController",
+    "Method": "GetEmission",
+    "RelativePath": "api/transport/{id}/emission",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

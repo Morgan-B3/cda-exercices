@@ -1,0 +1,6 @@
+@ServiceDechets_HostAddress = http://localhost:5038
+
+GET {{ServiceDechets_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

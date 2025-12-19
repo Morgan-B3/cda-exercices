@@ -1,0 +1,44 @@
+[
+  {
+    "ContainingType": "ServiceEnergie.API.Controllers.EnergyController",
+    "Method": "GetAll",
+    "RelativePath": "api/energy",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ServiceEnergie.API.Controllers.EnergyController",
+    "Method": "Create",
+    "RelativePath": "api/energy",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "ServiceEnergie.Application.DTOs.EnergyDtoReceive",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ServiceEnergie.API.Controllers.EnergyController",
+    "Method": "GetById",
+    "RelativePath": "api/energy/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
