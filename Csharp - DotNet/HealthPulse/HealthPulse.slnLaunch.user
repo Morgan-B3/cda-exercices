@@ -1,0 +1,27 @@
+[
+  {
+    "Name": "Start All",
+    "Projects": [
+      {
+        "Path": "src\\ConsultationService\\ConsultationService.csproj",
+        "Action": "Start",
+        "DebugTarget": "http"
+      },
+      {
+        "Path": "src\\HealthDashboardService\\HealthDashboardService.csproj",
+        "Action": "Start",
+        "DebugTarget": "http"
+      },
+      {
+        "Path": "src\\PatientService\\PatientService.csproj",
+        "Action": "Start",
+        "DebugTarget": "http"
+      },
+      {
+        "Path": "src\\PrescriptionService\\PrescriptionService.csproj",
+        "Action": "Start",
+        "DebugTarget": "http"
+      }
+    ]
+  }
+]

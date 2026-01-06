@@ -94,7 +94,8 @@
               "RelativeToolTip": "OrderService\\DTO\\ProductDtoSend.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-18T09:10:48.968Z"
+              "WhenOpened": "2025-12-18T09:10:48.968Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -106,7 +107,8 @@
               "RelativeToolTip": "OrderService\\DTO\\ProductDtoReceive.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-18T09:10:28.583Z"
+              "WhenOpened": "2025-12-18T09:10:28.583Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -118,7 +120,8 @@
               "RelativeToolTip": "OrderService\\Models\\Product.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-18T09:09:38.725Z"
+              "WhenOpened": "2025-12-18T09:09:38.725Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -130,7 +133,8 @@
               "RelativeToolTip": "ProductService\\Properties\\launchSettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-12-18T09:06:19.868Z"
+              "WhenOpened": "2025-12-18T09:06:19.868Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -142,7 +146,8 @@
               "RelativeToolTip": "UserService\\Properties\\launchSettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-12-18T09:06:08.669Z"
+              "WhenOpened": "2025-12-18T09:06:08.669Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -154,7 +159,8 @@
               "RelativeToolTip": "UserService\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-12-18T09:05:24.321Z"
+              "WhenOpened": "2025-12-18T09:05:24.321Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -166,7 +172,8 @@
               "RelativeToolTip": "UserService\\Migrations\\20251218090417_InitialCreate.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-18T09:04:17.386Z"
+              "WhenOpened": "2025-12-18T09:04:17.386Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -178,7 +185,8 @@
               "RelativeToolTip": "UserService\\Rest\\RestClient.cs",
               "ViewState": "AgIAAAUAAAAAAAAAAAAxwCgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-18T08:56:17.677Z"
+              "WhenOpened": "2025-12-18T08:56:17.677Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -190,7 +198,8 @@
               "RelativeToolTip": "UserService\\DTO\\UserDTOReceive.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-17T14:32:42.987Z"
+              "WhenOpened": "2025-12-17T14:32:42.987Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -202,7 +211,8 @@
               "RelativeToolTip": "UserService\\DTO\\UserDTOSend.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-17T14:32:40.592Z"
+              "WhenOpened": "2025-12-17T14:32:40.592Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -214,7 +224,8 @@
               "RelativeToolTip": "UserService\\Controllers\\UsersController.cs",
               "ViewState": "AgIAACMAAAAAAAAAAAAkwC0AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-17T13:57:21.02Z"
+              "WhenOpened": "2025-12-17T13:57:21.02Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -226,7 +237,8 @@
               "RelativeToolTip": "UserService\\Models\\User.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-17T13:56:45.493Z"
+              "WhenOpened": "2025-12-17T13:56:45.493Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -238,7 +250,8 @@
               "RelativeToolTip": "UserService\\Data\\UserDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-17T13:55:58.807Z"
+              "WhenOpened": "2025-12-17T13:55:58.807Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -274,7 +287,7 @@
               "RelativeDocumentMoniker": "UserService\\Repository\\UserRepository.cs",
               "ToolTip": "C:\\Users\\boutr\\Desktop\\cda-exercices\\Csharp - DotNet\\MicroServices\\UserService\\Repository\\UserRepository.cs",
               "RelativeToolTip": "UserService\\Repository\\UserRepository.cs",
-              "ViewState": "AgIAAB4AAAAAAAAAAAA7wC8AAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAkwC8AAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-17T13:54:08.25Z",
               "EditorCaption": ""
@@ -287,9 +300,10 @@
               "RelativeDocumentMoniker": "UserService\\Repository\\IRepository.cs",
               "ToolTip": "C:\\Users\\boutr\\Desktop\\cda-exercices\\Csharp - DotNet\\MicroServices\\UserService\\Repository\\IRepository.cs",
               "RelativeToolTip": "UserService\\Repository\\IRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAYAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-17T13:53:36.251Z"
+              "WhenOpened": "2025-12-17T13:53:36.251Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -299,9 +313,10 @@
               "RelativeDocumentMoniker": "UserService\\Program.cs",
               "ToolTip": "C:\\Users\\boutr\\Desktop\\cda-exercices\\Csharp - DotNet\\MicroServices\\UserService\\Program.cs",
               "RelativeToolTip": "UserService\\Program.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAIBJwAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-17T13:50:17.462Z"
+              "WhenOpened": "2025-12-17T13:50:17.462Z",
+              "EditorCaption": ""
             }
           ]
         }

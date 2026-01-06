@@ -1,0 +1,275 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\boutr\\Desktop\\cda-exercices\\Csharp - DotNet\\HealthPulse\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E3F0C042-53F7-0643-2466-6CC0D0215C7D}|src\\ConsultationService\\ConsultationService.csproj|c:\\users\\boutr\\desktop\\cda-exercices\\csharp - dotnet\\healthpulse\\src\\consultationservice\\application\\services\\iconsultationappservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3F0C042-53F7-0643-2466-6CC0D0215C7D}|src\\ConsultationService\\ConsultationService.csproj|solutionrelative:src\\consultationservice\\application\\services\\iconsultationappservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FF8E4DC-1D14-4AED-09CC-60BB19B2538F}|src\\PatientService\\PatientService.csproj|c:\\users\\boutr\\desktop\\cda-exercices\\csharp - dotnet\\healthpulse\\src\\patientservice\\application\\services\\ipatientappservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FF8E4DC-1D14-4AED-09CC-60BB19B2538F}|src\\PatientService\\PatientService.csproj|solutionrelative:src\\patientservice\\application\\services\\ipatientappservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3F0C042-53F7-0643-2466-6CC0D0215C7D}|src\\ConsultationService\\ConsultationService.csproj|c:\\users\\boutr\\desktop\\cda-exercices\\csharp - dotnet\\healthpulse\\src\\consultationservice\\application\\mappers\\consultationmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3F0C042-53F7-0643-2466-6CC0D0215C7D}|src\\ConsultationService\\ConsultationService.csproj|solutionrelative:src\\consultationservice\\application\\mappers\\consultationmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FF8E4DC-1D14-4AED-09CC-60BB19B2538F}|src\\PatientService\\PatientService.csproj|c:\\users\\boutr\\desktop\\cda-exercices\\csharp - dotnet\\healthpulse\\src\\patientservice\\application\\mappers\\patientmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FF8E4DC-1D14-4AED-09CC-60BB19B2538F}|src\\PatientService\\PatientService.csproj|solutionrelative:src\\patientservice\\application\\mappers\\patientmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3F0C042-53F7-0643-2466-6CC0D0215C7D}|src\\ConsultationService\\ConsultationService.csproj|c:\\users\\boutr\\desktop\\cda-exercices\\csharp - dotnet\\healthpulse\\src\\consultationservice\\domain\\entities\\consultation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3F0C042-53F7-0643-2466-6CC0D0215C7D}|src\\ConsultationService\\ConsultationService.csproj|solutionrelative:src\\consultationservice\\domain\\entities\\consultation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3F0C042-53F7-0643-2466-6CC0D0215C7D}|src\\ConsultationService\\ConsultationService.csproj|c:\\users\\boutr\\desktop\\cda-exercices\\csharp - dotnet\\healthpulse\\src\\consultationservice\\consultationservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E3F0C042-53F7-0643-2466-6CC0D0215C7D}|src\\ConsultationService\\ConsultationService.csproj|solutionrelative:src\\consultationservice\\consultationservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FF8E4DC-1D14-4AED-09CC-60BB19B2538F}|src\\PatientService\\PatientService.csproj|c:\\users\\boutr\\desktop\\cda-exercices\\csharp - dotnet\\healthpulse\\src\\patientservice\\application\\dtos\\patientrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FF8E4DC-1D14-4AED-09CC-60BB19B2538F}|src\\PatientService\\PatientService.csproj|solutionrelative:src\\patientservice\\application\\dtos\\patientrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FF8E4DC-1D14-4AED-09CC-60BB19B2538F}|src\\PatientService\\PatientService.csproj|c:\\users\\boutr\\desktop\\cda-exercices\\csharp - dotnet\\healthpulse\\src\\patientservice\\domain\\entities\\patients.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FF8E4DC-1D14-4AED-09CC-60BB19B2538F}|src\\PatientService\\PatientService.csproj|solutionrelative:src\\patientservice\\domain\\entities\\patients.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3F0C042-53F7-0643-2466-6CC0D0215C7D}|src\\ConsultationService\\ConsultationService.csproj|c:\\users\\boutr\\desktop\\cda-exercices\\csharp - dotnet\\healthpulse\\src\\consultationservice\\application\\dtos\\consultationrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3F0C042-53F7-0643-2466-6CC0D0215C7D}|src\\ConsultationService\\ConsultationService.csproj|solutionrelative:src\\consultationservice\\application\\dtos\\consultationrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FF8E4DC-1D14-4AED-09CC-60BB19B2538F}|src\\PatientService\\PatientService.csproj|c:\\users\\boutr\\desktop\\cda-exercices\\csharp - dotnet\\healthpulse\\src\\patientservice\\application\\services\\patientappservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FF8E4DC-1D14-4AED-09CC-60BB19B2538F}|src\\PatientService\\PatientService.csproj|solutionrelative:src\\patientservice\\application\\services\\patientappservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3F0C042-53F7-0643-2466-6CC0D0215C7D}|src\\ConsultationService\\ConsultationService.csproj|c:\\users\\boutr\\desktop\\cda-exercices\\csharp - dotnet\\healthpulse\\src\\consultationservice\\application\\dtos\\consultationresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3F0C042-53F7-0643-2466-6CC0D0215C7D}|src\\ConsultationService\\ConsultationService.csproj|solutionrelative:src\\consultationservice\\application\\dtos\\consultationresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8DAFE2D-E22A-0FE7-ED64-B991F71D388B}|src\\PrescriptionService\\PrescriptionService.csproj|c:\\users\\boutr\\desktop\\cda-exercices\\csharp - dotnet\\healthpulse\\src\\prescriptionservice\\prescriptionservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C8DAFE2D-E22A-0FE7-ED64-B991F71D388B}|src\\PrescriptionService\\PrescriptionService.csproj|solutionrelative:src\\prescriptionservice\\prescriptionservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FF8E4DC-1D14-4AED-09CC-60BB19B2538F}|src\\PatientService\\PatientService.csproj|c:\\users\\boutr\\desktop\\cda-exercices\\csharp - dotnet\\healthpulse\\src\\patientservice\\patientservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7FF8E4DC-1D14-4AED-09CC-60BB19B2538F}|src\\PatientService\\PatientService.csproj|solutionrelative:src\\patientservice\\patientservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3F0C042-53F7-0643-2466-6CC0D0215C7D}|src\\ConsultationService\\ConsultationService.csproj|c:\\users\\boutr\\desktop\\cda-exercices\\csharp - dotnet\\healthpulse\\src\\consultationservice\\domain\\ports\\iconsultationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3F0C042-53F7-0643-2466-6CC0D0215C7D}|src\\ConsultationService\\ConsultationService.csproj|solutionrelative:src\\consultationservice\\domain\\ports\\iconsultationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FF8E4DC-1D14-4AED-09CC-60BB19B2538F}|src\\PatientService\\PatientService.csproj|c:\\users\\boutr\\desktop\\cda-exercices\\csharp - dotnet\\healthpulse\\src\\patientservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FF8E4DC-1D14-4AED-09CC-60BB19B2538F}|src\\PatientService\\PatientService.csproj|solutionrelative:src\\patientservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IPatientAppService.cs",
+              "DocumentMoniker": "C:\\Users\\boutr\\Desktop\\cda-exercices\\Csharp - DotNet\\HealthPulse\\src\\PatientService\\Application\\Services\\IPatientAppService.cs",
+              "RelativeDocumentMoniker": "src\\PatientService\\Application\\Services\\IPatientAppService.cs",
+              "ToolTip": "C:\\Users\\boutr\\Desktop\\cda-exercices\\Csharp - DotNet\\HealthPulse\\src\\PatientService\\Application\\Services\\IPatientAppService.cs",
+              "RelativeToolTip": "src\\PatientService\\Application\\Services\\IPatientAppService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T14:36:18.643Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IConsultationAppService.cs",
+              "DocumentMoniker": "C:\\Users\\boutr\\Desktop\\cda-exercices\\Csharp - DotNet\\HealthPulse\\src\\ConsultationService\\Application\\Services\\IConsultationAppService.cs",
+              "RelativeDocumentMoniker": "src\\ConsultationService\\Application\\Services\\IConsultationAppService.cs",
+              "ToolTip": "C:\\Users\\boutr\\Desktop\\cda-exercices\\Csharp - DotNet\\HealthPulse\\src\\ConsultationService\\Application\\Services\\IConsultationAppService.cs",
+              "RelativeToolTip": "src\\ConsultationService\\Application\\Services\\IConsultationAppService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T14:36:08.901Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Patients.cs",
+              "DocumentMoniker": "C:\\Users\\boutr\\Desktop\\cda-exercices\\Csharp - DotNet\\HealthPulse\\src\\PatientService\\Domain\\Entities\\Patients.cs",
+              "RelativeDocumentMoniker": "src\\PatientService\\Domain\\Entities\\Patients.cs",
+              "ToolTip": "C:\\Users\\boutr\\Desktop\\cda-exercices\\Csharp - DotNet\\HealthPulse\\src\\PatientService\\Domain\\Entities\\Patients.cs",
+              "RelativeToolTip": "src\\PatientService\\Domain\\Entities\\Patients.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T14:31:38.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PatientAppService.cs",
+              "DocumentMoniker": "C:\\Users\\boutr\\Desktop\\cda-exercices\\Csharp - DotNet\\HealthPulse\\src\\PatientService\\Application\\Services\\PatientAppService.cs",
+              "RelativeDocumentMoniker": "src\\PatientService\\Application\\Services\\PatientAppService.cs",
+              "ToolTip": "C:\\Users\\boutr\\Desktop\\cda-exercices\\Csharp - DotNet\\HealthPulse\\src\\PatientService\\Application\\Services\\PatientAppService.cs",
+              "RelativeToolTip": "src\\PatientService\\Application\\Services\\PatientAppService.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T13:43:15.281Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PatientRequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\boutr\\Desktop\\cda-exercices\\Csharp - DotNet\\HealthPulse\\src\\PatientService\\Application\\DTOs\\PatientRequestDto.cs",
+              "RelativeDocumentMoniker": "src\\PatientService\\Application\\DTOs\\PatientRequestDto.cs",
+              "ToolTip": "C:\\Users\\boutr\\Desktop\\cda-exercices\\Csharp - DotNet\\HealthPulse\\src\\PatientService\\Application\\DTOs\\PatientRequestDto.cs",
+              "RelativeToolTip": "src\\PatientService\\Application\\DTOs\\PatientRequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T13:43:05.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ConsultationRequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\boutr\\Desktop\\cda-exercices\\Csharp - DotNet\\HealthPulse\\src\\ConsultationService\\Application\\DTOs\\ConsultationRequestDto.cs",
+              "RelativeDocumentMoniker": "src\\ConsultationService\\Application\\DTOs\\ConsultationRequestDto.cs",
+              "ToolTip": "C:\\Users\\boutr\\Desktop\\cda-exercices\\Csharp - DotNet\\HealthPulse\\src\\ConsultationService\\Application\\DTOs\\ConsultationRequestDto.cs",
+              "RelativeToolTip": "src\\ConsultationService\\Application\\DTOs\\ConsultationRequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T13:40:05.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ConsultationMapper.cs",
+              "DocumentMoniker": "C:\\Users\\boutr\\Desktop\\cda-exercices\\Csharp - DotNet\\HealthPulse\\src\\ConsultationService\\Application\\Mappers\\ConsultationMapper.cs",
+              "RelativeDocumentMoniker": "src\\ConsultationService\\Application\\Mappers\\ConsultationMapper.cs",
+              "ToolTip": "C:\\Users\\boutr\\Desktop\\cda-exercices\\Csharp - DotNet\\HealthPulse\\src\\ConsultationService\\Application\\Mappers\\ConsultationMapper.cs",
+              "RelativeToolTip": "src\\ConsultationService\\Application\\Mappers\\ConsultationMapper.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAzwCcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T13:33:44.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PatientMapper.cs",
+              "DocumentMoniker": "C:\\Users\\boutr\\Desktop\\cda-exercices\\Csharp - DotNet\\HealthPulse\\src\\PatientService\\Application\\Mappers\\PatientMapper.cs",
+              "RelativeDocumentMoniker": "src\\PatientService\\Application\\Mappers\\PatientMapper.cs",
+              "ToolTip": "C:\\Users\\boutr\\Desktop\\cda-exercices\\Csharp - DotNet\\HealthPulse\\src\\PatientService\\Application\\Mappers\\PatientMapper.cs",
+              "RelativeToolTip": "src\\PatientService\\Application\\Mappers\\PatientMapper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T13:33:21.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ConsultationService",
+              "DocumentMoniker": "C:\\Users\\boutr\\Desktop\\cda-exercices\\Csharp - DotNet\\HealthPulse\\src\\ConsultationService\\ConsultationService.csproj",
+              "RelativeDocumentMoniker": "src\\ConsultationService\\ConsultationService.csproj",
+              "ToolTip": "C:\\Users\\boutr\\Desktop\\cda-exercices\\Csharp - DotNet\\HealthPulse\\src\\ConsultationService\\ConsultationService.csproj",
+              "RelativeToolTip": "src\\ConsultationService\\ConsultationService.csproj",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-05T13:32:29.265Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PrescriptionService",
+              "DocumentMoniker": "C:\\Users\\boutr\\Desktop\\cda-exercices\\Csharp - DotNet\\HealthPulse\\src\\PrescriptionService\\PrescriptionService.csproj",
+              "RelativeDocumentMoniker": "src\\PrescriptionService\\PrescriptionService.csproj",
+              "ToolTip": "C:\\Users\\boutr\\Desktop\\cda-exercices\\Csharp - DotNet\\HealthPulse\\src\\PrescriptionService\\PrescriptionService.csproj",
+              "RelativeToolTip": "src\\PrescriptionService\\PrescriptionService.csproj",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-05T13:32:15.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PatientService",
+              "DocumentMoniker": "C:\\Users\\boutr\\Desktop\\cda-exercices\\Csharp - DotNet\\HealthPulse\\src\\PatientService\\PatientService.csproj",
+              "RelativeDocumentMoniker": "src\\PatientService\\PatientService.csproj",
+              "ToolTip": "C:\\Users\\boutr\\Desktop\\cda-exercices\\Csharp - DotNet\\HealthPulse\\src\\PatientService\\PatientService.csproj",
+              "RelativeToolTip": "src\\PatientService\\PatientService.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-05T13:32:12.002Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ConsultationResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\boutr\\Desktop\\cda-exercices\\Csharp - DotNet\\HealthPulse\\src\\ConsultationService\\Application\\DTOs\\ConsultationResponseDto.cs",
+              "RelativeDocumentMoniker": "src\\ConsultationService\\Application\\DTOs\\ConsultationResponseDto.cs",
+              "ToolTip": "C:\\Users\\boutr\\Desktop\\cda-exercices\\Csharp - DotNet\\HealthPulse\\src\\ConsultationService\\Application\\DTOs\\ConsultationResponseDto.cs",
+              "RelativeToolTip": "src\\ConsultationService\\Application\\DTOs\\ConsultationResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T13:31:29.383Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IConsultationRepository.cs",
+              "DocumentMoniker": "C:\\Users\\boutr\\Desktop\\cda-exercices\\Csharp - DotNet\\HealthPulse\\src\\ConsultationService\\Domain\\Ports\\IConsultationRepository.cs",
+              "RelativeDocumentMoniker": "src\\ConsultationService\\Domain\\Ports\\IConsultationRepository.cs",
+              "ToolTip": "C:\\Users\\boutr\\Desktop\\cda-exercices\\Csharp - DotNet\\HealthPulse\\src\\ConsultationService\\Domain\\Ports\\IConsultationRepository.cs",
+              "RelativeToolTip": "src\\ConsultationService\\Domain\\Ports\\IConsultationRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T13:30:02.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Consultation.cs",
+              "DocumentMoniker": "C:\\Users\\boutr\\Desktop\\cda-exercices\\Csharp - DotNet\\HealthPulse\\src\\ConsultationService\\Domain\\Entities\\Consultation.cs",
+              "RelativeDocumentMoniker": "src\\ConsultationService\\Domain\\Entities\\Consultation.cs",
+              "ToolTip": "C:\\Users\\boutr\\Desktop\\cda-exercices\\Csharp - DotNet\\HealthPulse\\src\\ConsultationService\\Domain\\Entities\\Consultation.cs",
+              "RelativeToolTip": "src\\ConsultationService\\Domain\\Entities\\Consultation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T13:29:36.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\boutr\\Desktop\\cda-exercices\\Csharp - DotNet\\HealthPulse\\src\\PatientService\\Program.cs",
+              "RelativeDocumentMoniker": "src\\PatientService\\Program.cs",
+              "ToolTip": "C:\\Users\\boutr\\Desktop\\cda-exercices\\Csharp - DotNet\\HealthPulse\\src\\PatientService\\Program.cs",
+              "RelativeToolTip": "src\\PatientService\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB4AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T11:27:25.571Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
