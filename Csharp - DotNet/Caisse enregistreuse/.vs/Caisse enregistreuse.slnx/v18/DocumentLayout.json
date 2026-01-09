@@ -1,0 +1,224 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\boutr\\Desktop\\cda-exercices\\Csharp - DotNet\\Caisse enregistreuse\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2B35A4DA-9548-497A-9519-1F362B9818BF}|Caisse enregistreuse\\Caisse enregistreuse.csproj|c:\\users\\boutr\\desktop\\cda-exercices\\csharp - dotnet\\caisse enregistreuse\\caisse enregistreuse\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B35A4DA-9548-497A-9519-1F362B9818BF}|Caisse enregistreuse\\Caisse enregistreuse.csproj|solutionrelative:caisse enregistreuse\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B35A4DA-9548-497A-9519-1F362B9818BF}|Caisse enregistreuse\\Caisse enregistreuse.csproj|c:\\users\\boutr\\desktop\\cda-exercices\\csharp - dotnet\\caisse enregistreuse\\caisse enregistreuse\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B35A4DA-9548-497A-9519-1F362B9818BF}|Caisse enregistreuse\\Caisse enregistreuse.csproj|solutionrelative:caisse enregistreuse\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B35A4DA-9548-497A-9519-1F362B9818BF}|Caisse enregistreuse\\Caisse enregistreuse.csproj|c:\\users\\boutr\\desktop\\cda-exercices\\csharp - dotnet\\caisse enregistreuse\\caisse enregistreuse\\controllers\\produitscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B35A4DA-9548-497A-9519-1F362B9818BF}|Caisse enregistreuse\\Caisse enregistreuse.csproj|solutionrelative:caisse enregistreuse\\controllers\\produitscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B35A4DA-9548-497A-9519-1F362B9818BF}|Caisse enregistreuse\\Caisse enregistreuse.csproj|c:\\users\\boutr\\desktop\\cda-exercices\\csharp - dotnet\\caisse enregistreuse\\caisse enregistreuse\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B35A4DA-9548-497A-9519-1F362B9818BF}|Caisse enregistreuse\\Caisse enregistreuse.csproj|solutionrelative:caisse enregistreuse\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B35A4DA-9548-497A-9519-1F362B9818BF}|Caisse enregistreuse\\Caisse enregistreuse.csproj|c:\\users\\boutr\\desktop\\cda-exercices\\csharp - dotnet\\caisse enregistreuse\\caisse enregistreuse\\services\\categorieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B35A4DA-9548-497A-9519-1F362B9818BF}|Caisse enregistreuse\\Caisse enregistreuse.csproj|solutionrelative:caisse enregistreuse\\services\\categorieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B35A4DA-9548-497A-9519-1F362B9818BF}|Caisse enregistreuse\\Caisse enregistreuse.csproj|c:\\users\\boutr\\desktop\\cda-exercices\\csharp - dotnet\\caisse enregistreuse\\caisse enregistreuse\\services\\produitservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B35A4DA-9548-497A-9519-1F362B9818BF}|Caisse enregistreuse\\Caisse enregistreuse.csproj|solutionrelative:caisse enregistreuse\\services\\produitservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B35A4DA-9548-497A-9519-1F362B9818BF}|Caisse enregistreuse\\Caisse enregistreuse.csproj|c:\\users\\boutr\\desktop\\cda-exercices\\csharp - dotnet\\caisse enregistreuse\\caisse enregistreuse\\models\\categorie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B35A4DA-9548-497A-9519-1F362B9818BF}|Caisse enregistreuse\\Caisse enregistreuse.csproj|solutionrelative:caisse enregistreuse\\models\\categorie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B35A4DA-9548-497A-9519-1F362B9818BF}|Caisse enregistreuse\\Caisse enregistreuse.csproj|c:\\users\\boutr\\desktop\\cda-exercices\\csharp - dotnet\\caisse enregistreuse\\caisse enregistreuse\\models\\produit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B35A4DA-9548-497A-9519-1F362B9818BF}|Caisse enregistreuse\\Caisse enregistreuse.csproj|solutionrelative:caisse enregistreuse\\models\\produit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B35A4DA-9548-497A-9519-1F362B9818BF}|Caisse enregistreuse\\Caisse enregistreuse.csproj|c:\\users\\boutr\\desktop\\cda-exercices\\csharp - dotnet\\caisse enregistreuse\\caisse enregistreuse\\controllers\\paniercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B35A4DA-9548-497A-9519-1F362B9818BF}|Caisse enregistreuse\\Caisse enregistreuse.csproj|solutionrelative:caisse enregistreuse\\controllers\\paniercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B35A4DA-9548-497A-9519-1F362B9818BF}|Caisse enregistreuse\\Caisse enregistreuse.csproj|c:\\users\\boutr\\desktop\\cda-exercices\\csharp - dotnet\\caisse enregistreuse\\caisse enregistreuse\\services\\icategorieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B35A4DA-9548-497A-9519-1F362B9818BF}|Caisse enregistreuse\\Caisse enregistreuse.csproj|solutionrelative:caisse enregistreuse\\services\\icategorieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B35A4DA-9548-497A-9519-1F362B9818BF}|Caisse enregistreuse\\Caisse enregistreuse.csproj|c:\\users\\boutr\\desktop\\cda-exercices\\csharp - dotnet\\caisse enregistreuse\\caisse enregistreuse\\services\\iproduitservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B35A4DA-9548-497A-9519-1F362B9818BF}|Caisse enregistreuse\\Caisse enregistreuse.csproj|solutionrelative:caisse enregistreuse\\services\\iproduitservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B35A4DA-9548-497A-9519-1F362B9818BF}|Caisse enregistreuse\\Caisse enregistreuse.csproj|c:\\users\\boutr\\desktop\\cda-exercices\\csharp - dotnet\\caisse enregistreuse\\caisse enregistreuse\\models\\panieritem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B35A4DA-9548-497A-9519-1F362B9818BF}|Caisse enregistreuse\\Caisse enregistreuse.csproj|solutionrelative:caisse enregistreuse\\models\\panieritem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PanierController.cs",
+              "DocumentMoniker": "C:\\Users\\boutr\\Desktop\\cda-exercices\\Csharp - DotNet\\Caisse enregistreuse\\Caisse enregistreuse\\Controllers\\PanierController.cs",
+              "RelativeDocumentMoniker": "Caisse enregistreuse\\Controllers\\PanierController.cs",
+              "ToolTip": "C:\\Users\\boutr\\Desktop\\cda-exercices\\Csharp - DotNet\\Caisse enregistreuse\\Caisse enregistreuse\\Controllers\\PanierController.cs",
+              "RelativeToolTip": "Caisse enregistreuse\\Controllers\\PanierController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T14:25:12.108Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "C:\\Users\\boutr\\Desktop\\cda-exercices\\Csharp - DotNet\\Caisse enregistreuse\\Caisse enregistreuse\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "Caisse enregistreuse\\Controllers\\CategoriesController.cs",
+              "ToolTip": "C:\\Users\\boutr\\Desktop\\cda-exercices\\Csharp - DotNet\\Caisse enregistreuse\\Caisse enregistreuse\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "Caisse enregistreuse\\Controllers\\CategoriesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T14:25:02.736Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProduitsController.cs",
+              "DocumentMoniker": "C:\\Users\\boutr\\Desktop\\cda-exercices\\Csharp - DotNet\\Caisse enregistreuse\\Caisse enregistreuse\\Controllers\\ProduitsController.cs",
+              "RelativeDocumentMoniker": "Caisse enregistreuse\\Controllers\\ProduitsController.cs",
+              "ToolTip": "C:\\Users\\boutr\\Desktop\\cda-exercices\\Csharp - DotNet\\Caisse enregistreuse\\Caisse enregistreuse\\Controllers\\ProduitsController.cs",
+              "RelativeToolTip": "Caisse enregistreuse\\Controllers\\ProduitsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T14:24:53.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CategorieService.cs",
+              "DocumentMoniker": "C:\\Users\\boutr\\Desktop\\cda-exercices\\Csharp - DotNet\\Caisse enregistreuse\\Caisse enregistreuse\\Services\\CategorieService.cs",
+              "RelativeDocumentMoniker": "Caisse enregistreuse\\Services\\CategorieService.cs",
+              "ToolTip": "C:\\Users\\boutr\\Desktop\\cda-exercices\\Csharp - DotNet\\Caisse enregistreuse\\Caisse enregistreuse\\Services\\CategorieService.cs",
+              "RelativeToolTip": "Caisse enregistreuse\\Services\\CategorieService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T14:23:04.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ICategorieService.cs",
+              "DocumentMoniker": "C:\\Users\\boutr\\Desktop\\cda-exercices\\Csharp - DotNet\\Caisse enregistreuse\\Caisse enregistreuse\\Services\\ICategorieService.cs",
+              "RelativeDocumentMoniker": "Caisse enregistreuse\\Services\\ICategorieService.cs",
+              "ToolTip": "C:\\Users\\boutr\\Desktop\\cda-exercices\\Csharp - DotNet\\Caisse enregistreuse\\Caisse enregistreuse\\Services\\ICategorieService.cs",
+              "RelativeToolTip": "Caisse enregistreuse\\Services\\ICategorieService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T14:22:53.56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IProduitService.cs",
+              "DocumentMoniker": "C:\\Users\\boutr\\Desktop\\cda-exercices\\Csharp - DotNet\\Caisse enregistreuse\\Caisse enregistreuse\\Services\\IProduitService.cs",
+              "RelativeDocumentMoniker": "Caisse enregistreuse\\Services\\IProduitService.cs",
+              "ToolTip": "C:\\Users\\boutr\\Desktop\\cda-exercices\\Csharp - DotNet\\Caisse enregistreuse\\Caisse enregistreuse\\Services\\IProduitService.cs",
+              "RelativeToolTip": "Caisse enregistreuse\\Services\\IProduitService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T14:22:37.85Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProduitService.cs",
+              "DocumentMoniker": "C:\\Users\\boutr\\Desktop\\cda-exercices\\Csharp - DotNet\\Caisse enregistreuse\\Caisse enregistreuse\\Services\\ProduitService.cs",
+              "RelativeDocumentMoniker": "Caisse enregistreuse\\Services\\ProduitService.cs",
+              "ToolTip": "C:\\Users\\boutr\\Desktop\\cda-exercices\\Csharp - DotNet\\Caisse enregistreuse\\Caisse enregistreuse\\Services\\ProduitService.cs",
+              "RelativeToolTip": "Caisse enregistreuse\\Services\\ProduitService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAwCMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T14:22:20.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PanierItem.cs",
+              "DocumentMoniker": "C:\\Users\\boutr\\Desktop\\cda-exercices\\Csharp - DotNet\\Caisse enregistreuse\\Caisse enregistreuse\\Models\\PanierItem.cs",
+              "RelativeDocumentMoniker": "Caisse enregistreuse\\Models\\PanierItem.cs",
+              "ToolTip": "C:\\Users\\boutr\\Desktop\\cda-exercices\\Csharp - DotNet\\Caisse enregistreuse\\Caisse enregistreuse\\Models\\PanierItem.cs",
+              "RelativeToolTip": "Caisse enregistreuse\\Models\\PanierItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T14:13:55.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Categorie.cs",
+              "DocumentMoniker": "C:\\Users\\boutr\\Desktop\\cda-exercices\\Csharp - DotNet\\Caisse enregistreuse\\Caisse enregistreuse\\Models\\Categorie.cs",
+              "RelativeDocumentMoniker": "Caisse enregistreuse\\Models\\Categorie.cs",
+              "ToolTip": "C:\\Users\\boutr\\Desktop\\cda-exercices\\Csharp - DotNet\\Caisse enregistreuse\\Caisse enregistreuse\\Models\\Categorie.cs",
+              "RelativeToolTip": "Caisse enregistreuse\\Models\\Categorie.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T14:13:42.652Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Produit.cs",
+              "DocumentMoniker": "C:\\Users\\boutr\\Desktop\\cda-exercices\\Csharp - DotNet\\Caisse enregistreuse\\Caisse enregistreuse\\Models\\Produit.cs",
+              "RelativeDocumentMoniker": "Caisse enregistreuse\\Models\\Produit.cs",
+              "ToolTip": "C:\\Users\\boutr\\Desktop\\cda-exercices\\Csharp - DotNet\\Caisse enregistreuse\\Caisse enregistreuse\\Models\\Produit.cs",
+              "RelativeToolTip": "Caisse enregistreuse\\Models\\Produit.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T14:13:17.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\boutr\\Desktop\\cda-exercices\\Csharp - DotNet\\Caisse enregistreuse\\Caisse enregistreuse\\Program.cs",
+              "RelativeDocumentMoniker": "Caisse enregistreuse\\Program.cs",
+              "ToolTip": "C:\\Users\\boutr\\Desktop\\cda-exercices\\Csharp - DotNet\\Caisse enregistreuse\\Caisse enregistreuse\\Program.cs",
+              "RelativeToolTip": "Caisse enregistreuse\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T13:29:47.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\boutr\\Desktop\\cda-exercices\\Csharp - DotNet\\Caisse enregistreuse\\Caisse enregistreuse\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Caisse enregistreuse\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\boutr\\Desktop\\cda-exercices\\Csharp - DotNet\\Caisse enregistreuse\\Caisse enregistreuse\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Caisse enregistreuse\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T13:28:01.288Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
