@@ -1,0 +1,83 @@
+﻿@page "/"
+
+<PageTitle>Formulaire</PageTitle>
+
+<h1>Formulaire</h1>
+
+<div class="card mb-3">
+    <div class="card-body">
+        <label class="form-check-label">Nom</label>
+        <input type="text" class="form-control" @bind="name" @bind:event="oninput" />
+    </div>
+
+    <div class="card-body">
+        <label class="form-check-label">Adresse email</label>
+        <input type="text" class="form-control" @bind="email" @bind:event="oninput" />
+    </div>
+
+    <div class="card-body">
+        <label>Nombre de participants: <strong>@participants</strong></label>
+        <input type="range" class="form-range" min="1" max="5" @bind="participants" @bind:event="oninput" />
+    </div>
+
+    <div class="card-body">
+        <input type="checkbox" class="form-check-input" @bind="isAccepted" />
+        <label class="form-check-label">J'accepte les conditions générales</label>
+    </div>
+
+    <div class="card-body">
+        <input type="checkbox" class="form-check-input" @bind="isVip" />
+        <label class="form-check-label">VIP (+50€)</label>
+    </div>
+
+    <button disabled="@(!IsFormValid())">Bouton</button>
+
+</div>
+
+
+
+@code {
+    private string name = "";
+    private string email = "";
+    private int participants = 1;
+    private bool isAccepted = false;
+    private bool isVip = false;
+    private bool isConfirmed = false;
+
+    private int CalculateTotal()
+    {
+        int vip = isVip ? 50 : 0;
+        return (participants * 20) + vip;
+    }
+
+    private bool IsFormValid()
+    {
+        if(name.Length > 0 && email.Length > 0 && participants >= 1 && participants <= 5 && isAccepted)
+        {
+            return true;
+        }
+        return false;
+    }
+
+    private void ValidateForm()
+    {
+        isConfirmed = true;
+    }
+
+
+    private int age = 25;
+    private List<string> fruits = new() { "Pomme", "Banane", "Orange" };
+    private string nouveauFruit = "";
+    private int etoiles = 5;
+
+    private void AjouterFruit()
+    {
+        if (!string.IsNullOrWhiteSpace(nouveauFruit))
+        {
+            fruits.Add(nouveauFruit);
+            nouveauFruit = "";
+        }
+    }
+
+}
+

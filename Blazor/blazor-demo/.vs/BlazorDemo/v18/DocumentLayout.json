@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\boutr\\Desktop\\cda-exercices\\Blazor\\blazor-demo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1065D370-A3C1-4D46-BE28-4651AA009A3E}|BlazorDemo.Server\\BlazorDemo.Server.csproj|c:\\users\\boutr\\desktop\\cda-exercices\\blazor\\blazor-demo\\blazordemo.server\\blazordemo.server.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1065D370-A3C1-4D46-BE28-4651AA009A3E}|BlazorDemo.Server\\BlazorDemo.Server.csproj|solutionrelative:blazordemo.server\\blazordemo.server.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5E134E4-FB2A-4103-8CE7-3FE5EFD7728A}|BlazorDemo.Shared\\BlazorDemo.Shared.csproj|c:\\users\\boutr\\desktop\\cda-exercices\\blazor\\blazor-demo\\blazordemo.shared\\blazordemo.shared.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F5E134E4-FB2A-4103-8CE7-3FE5EFD7728A}|BlazorDemo.Shared\\BlazorDemo.Shared.csproj|solutionrelative:blazordemo.shared\\blazordemo.shared.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1065D370-A3C1-4D46-BE28-4651AA009A3E}|BlazorDemo.Server\\BlazorDemo.Server.csproj|c:\\users\\boutr\\desktop\\cda-exercices\\blazor\\blazor-demo\\blazordemo.server\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1065D370-A3C1-4D46-BE28-4651AA009A3E}|BlazorDemo.Server\\BlazorDemo.Server.csproj|solutionrelative:blazordemo.server\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CA64516-1D5E-4BDA-82CB-EBA34FDD2E8B}|BlazorDemo.Client\\BlazorDemo.Client.csproj|c:\\users\\boutr\\desktop\\cda-exercices\\blazor\\blazor-demo\\blazordemo.client\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5CA64516-1D5E-4BDA-82CB-EBA34FDD2E8B}|BlazorDemo.Client\\BlazorDemo.Client.csproj|solutionrelative:blazordemo.client\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BlazorDemo.Server",
+              "DocumentMoniker": "C:\\Users\\boutr\\Desktop\\cda-exercices\\Blazor\\blazor-demo\\BlazorDemo.Server\\BlazorDemo.Server.csproj",
+              "RelativeDocumentMoniker": "BlazorDemo.Server\\BlazorDemo.Server.csproj",
+              "ToolTip": "C:\\Users\\boutr\\Desktop\\cda-exercices\\Blazor\\blazor-demo\\BlazorDemo.Server\\BlazorDemo.Server.csproj",
+              "RelativeToolTip": "BlazorDemo.Server\\BlazorDemo.Server.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-26T13:25:12.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BlazorDemo.Shared",
+              "DocumentMoniker": "C:\\Users\\boutr\\Desktop\\cda-exercices\\Blazor\\blazor-demo\\BlazorDemo.Shared\\BlazorDemo.Shared.csproj",
+              "RelativeDocumentMoniker": "BlazorDemo.Shared\\BlazorDemo.Shared.csproj",
+              "ToolTip": "C:\\Users\\boutr\\Desktop\\cda-exercices\\Blazor\\blazor-demo\\BlazorDemo.Shared\\BlazorDemo.Shared.csproj",
+              "RelativeToolTip": "BlazorDemo.Shared\\BlazorDemo.Shared.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-26T13:25:05.445Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\boutr\\Desktop\\cda-exercices\\Blazor\\blazor-demo\\BlazorDemo.Server\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "BlazorDemo.Server\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\boutr\\Desktop\\cda-exercices\\Blazor\\blazor-demo\\BlazorDemo.Server\\Properties\\launchSettings.json",
+              "RelativeToolTip": "BlazorDemo.Server\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-01-26T13:24:53.513Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\boutr\\Desktop\\cda-exercices\\Blazor\\blazor-demo\\BlazorDemo.Client\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "BlazorDemo.Client\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\boutr\\Desktop\\cda-exercices\\Blazor\\blazor-demo\\BlazorDemo.Client\\Properties\\launchSettings.json",
+              "RelativeToolTip": "BlazorDemo.Client\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-01-26T13:24:24.44Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

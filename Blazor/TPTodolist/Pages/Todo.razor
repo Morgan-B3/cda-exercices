@@ -1,0 +1,50 @@
+﻿@page "/"
+@using TPTodolist.Components
+@using TPTodolist.Models
+
+<PageTitle>TodoList</PageTitle>
+
+<h3>Ma TodoList</h3>
+
+<div>
+    <div>
+        <input type="text" placeholder="Nouvelle tâche..." @bind="taskName" @bind:event="oninput"/>
+        <button disabled="@string.IsNullOrWhiteSpace(taskName)" @onclick="AddTask">Ajouter</button>
+    </div>
+    <div>
+        <p>Terminées : @CompletedTasksCount / @tasks.Count()</p>
+    </div>
+    <div>
+        @foreach (var task in tasks)
+        {
+            <TodoItem OnDelete="DeleteTask" Task="task" ShowDate="showDate" OnStatusChanged="StateHasChanged"/>
+        }
+    </div>
+    <input id="showDate" type="checkbox" @bind="showDate"/>
+    <label for="showDate">Afficher la date des tâches</label>
+    <button @onclick="DeleteCompletedTasks">Supprimer les têches terminées</button>
+</div>
+
+@code {
+    private List<TodoTask> tasks = new();
+    private string taskName = "";
+    private int CompletedTasksCount => tasks.Count(t => t.IsCompleted);
+    private bool showDate = true;
+
+    private void AddTask()
+    {
+        TodoTask task = new TodoTask(taskName);
+        tasks.Add(task);
+        taskName = "";
+    }
+
+    private void DeleteTask(TodoTask task)
+    {
+        tasks.Remove(task);
+    }
+
+    private void DeleteCompletedTasks()
+    {
+        tasks.RemoveAll(taskName => taskName.IsCompleted);
+    }
+}
