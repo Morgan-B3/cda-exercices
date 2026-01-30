@@ -26,16 +26,16 @@ build_property._RazorSourceGeneratorDebug =
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/boutr/Desktop/cda-exercices/Blazor/blazor-demo/BlazorDemo.Client/Pages/Counter.razor]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291bnRlci5yYXpvcg==
+[C:/Users/boutr/Desktop/cda-exercices/Blazor/blazor-demo/BlazorDemo.Client/Components/ProductCart.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQcm9kdWN0Q2FydC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/boutr/Desktop/cda-exercices/Blazor/blazor-demo/BlazorDemo.Client/Pages/Crud.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ3J1ZC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/boutr/Desktop/cda-exercices/Blazor/blazor-demo/BlazorDemo.Client/Pages/Home.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSG9tZS5yYXpvcg==
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/boutr/Desktop/cda-exercices/Blazor/blazor-demo/BlazorDemo.Client/Pages/Weather.razor]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcV2VhdGhlci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/boutr/Desktop/cda-exercices/Blazor/blazor-demo/BlazorDemo.Client/_Imports.razor]

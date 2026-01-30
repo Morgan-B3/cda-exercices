@@ -1,32 +1,60 @@
+using BlazorDemo.Server.Data;
+using BlazorDemo.Server.Repositories;
+using BlazorDemo.Server.Services;
+using Microsoft.EntityFrameworkCore;
+
 var builder = WebApplication.CreateBuilder(args);
 
-// Add services to the container.
+
+var connectionString = builder.Configuration.GetConnectionString("DefaultConnection")
+    ?? "Server=localhost;Port=3306;Database=blazordemo;User=blazor;Password=blazor123;";
+
+builder.Services.AddDbContext<AppDbContext>(options =>
+    options.UseMySql(connectionString, ServerVersion.AutoDetect(connectionString),
+        mySqlOptions => mySqlOptions.EnableRetryOnFailure(5, TimeSpan.FromSeconds(30), null)));
+
+
+builder.Services.AddScoped(typeof(IRepository<>), typeof(Repository<>));
+builder.Services.AddScoped<IProductRepository, ProductRepository>();
+
+
+builder.Services.AddScoped<IProductService, ProductService>();
+
+builder.Services.AddControllersWithViews();
+builder.Services.AddRazorPages();
+
+
+builder.Services.AddEndpointsApiExplorer();
+builder.Services.AddSwaggerGen();
 
 var app = builder.Build();
 
-// Configure the HTTP request pipeline.
 
-var summaries = new[]
+using (var scope = app.Services.CreateScope())
 {
-    "Freezing", "Bracing", "Chilly", "Cool", "Mild", "Warm", "Balmy", "Hot", "Sweltering", "Scorching"
-};
-
-app.MapGet("/weatherforecast", () =>
-{
-    var forecast =  Enumerable.Range(1, 5).Select(index =>
-        new WeatherForecast
-        (
-            DateOnly.FromDateTime(DateTime.Now.AddDays(index)),
-            Random.Shared.Next(-20, 55),
-            summaries[Random.Shared.Next(summaries.Length)]
-        ))
-        .ToArray();
-    return forecast;
-});
-
-app.Run();
-
-record WeatherForecast(DateOnly Date, int TemperatureC, string? Summary)
-{
-    public int TemperatureF => 32 + (int)(TemperatureC / 0.5556);
+    var context = scope.ServiceProvider.GetRequiredService<AppDbContext>();
+    try { context.Database.EnsureCreated(); Console.WriteLine(" MySQL connecté!"); }
+    catch (Exception ex) { Console.WriteLine($" Erreur MySQL: {ex.Message}"); }
 }
+
+
+if (app.Environment.IsDevelopment())
+{
+    app.UseSwagger();
+    app.UseSwaggerUI();
+    app.UseWebAssemblyDebugging();
+}
+else
+{
+    app.UseExceptionHandler("/Error");
+    app.UseHsts();
+}
+
+app.UseHttpsRedirection();
+app.UseBlazorFrameworkFiles();
+app.UseStaticFiles();
+app.UseRouting();
+app.MapRazorPages();
+app.MapControllers();
+app.MapFallbackToFile("index.html");
+app.Run();

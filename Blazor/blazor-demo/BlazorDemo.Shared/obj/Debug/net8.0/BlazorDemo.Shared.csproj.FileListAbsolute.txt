@@ -1,0 +1,12 @@
+C:\Users\boutr\Desktop\cda-exercices\Blazor\blazor-demo\BlazorDemo.Shared\bin\Debug\net8.0\BlazorDemo.Shared.deps.json
+C:\Users\boutr\Desktop\cda-exercices\Blazor\blazor-demo\BlazorDemo.Shared\bin\Debug\net8.0\BlazorDemo.Shared.dll
+C:\Users\boutr\Desktop\cda-exercices\Blazor\blazor-demo\BlazorDemo.Shared\bin\Debug\net8.0\BlazorDemo.Shared.pdb
+C:\Users\boutr\Desktop\cda-exercices\Blazor\blazor-demo\BlazorDemo.Shared\obj\Debug\net8.0\BlazorDemo.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\boutr\Desktop\cda-exercices\Blazor\blazor-demo\BlazorDemo.Shared\obj\Debug\net8.0\BlazorDemo.Shared.AssemblyInfoInputs.cache
+C:\Users\boutr\Desktop\cda-exercices\Blazor\blazor-demo\BlazorDemo.Shared\obj\Debug\net8.0\BlazorDemo.Shared.AssemblyInfo.cs
+C:\Users\boutr\Desktop\cda-exercices\Blazor\blazor-demo\BlazorDemo.Shared\obj\Debug\net8.0\BlazorDemo.Shared.csproj.CoreCompileInputs.cache
+C:\Users\boutr\Desktop\cda-exercices\Blazor\blazor-demo\BlazorDemo.Shared\obj\Debug\net8.0\BlazorDemo.Shared.sourcelink.json
+C:\Users\boutr\Desktop\cda-exercices\Blazor\blazor-demo\BlazorDemo.Shared\obj\Debug\net8.0\BlazorDemo.Shared.dll
+C:\Users\boutr\Desktop\cda-exercices\Blazor\blazor-demo\BlazorDemo.Shared\obj\Debug\net8.0\refint\BlazorDemo.Shared.dll
+C:\Users\boutr\Desktop\cda-exercices\Blazor\blazor-demo\BlazorDemo.Shared\obj\Debug\net8.0\BlazorDemo.Shared.pdb
+C:\Users\boutr\Desktop\cda-exercices\Blazor\blazor-demo\BlazorDemo.Shared\obj\Debug\net8.0\ref\BlazorDemo.Shared.dll

@@ -1,0 +1,120 @@
+﻿@page "/"
+@inject IProductService ProductService
+
+
+<h3>CRUD</h3>
+
+<div class="card mb-3">
+    <div class="card-header">Ajouter un produit</div>
+    <div class="card-body">
+        <EditForm Model="@product" OnValidSubmit="AddProduct">
+            <DataAnnotationsValidator />
+
+            <div class="row">
+                <div class="col-md-6 mb-3">
+                    <label class="form-label">Nom *</label>
+                    <InputText class="form-control" @bind-Value="product.Name" />
+                    <ValidationMessage For="@(() => product.Name)" class="text-danger small" />
+                </div>
+                <div class="col-md-6 mb-3">
+                    <label class="form-label">Catégorie *</label>
+                    <InputSelect class="form-select" @bind-Value="product.Category">
+                        <option value="">-- Choisir --</option>
+                        <option value="Vêtement">Vêtement</option>
+                        <option value="Alimentaire">Alimentaire</option>
+                    </InputSelect>
+                    <ValidationMessage For="@(() => product.Category)" class="text-danger small" />
+                </div>
+            </div>
+
+            <div class="mb-3">
+                <label class="form-label">Description *</label>
+                <InputTextArea class="form-control" rows="4" @bind-Value="product.Description" />
+                <ValidationMessage For="@(() => product.Description)" class="text-danger small" />
+            </div>
+
+            <div class="row">
+                <div class="col-md-4 mb-3">
+                    <label class="form-label">Prix *</label>
+                    <InputNumber class="form-control" @bind-Value="product.Price" />
+                    <ValidationMessage For="@(() => product.Price)" class="text-danger small" />
+                </div>
+                <div class="col-md-4 mb-3">
+                    <label class="form-label">Stock</label>
+                    <InputNumber class="form-control" @bind-Value="product.Stock" />
+                </div>
+                <div class="col-md-4 mb-3">
+                    <InputCheckbox id="isActive"  @bind-Value="product.IsActive" />
+                    <label for="isActive" class="form-label">Actif</label>
+                </div>
+            </div>
+
+            
+
+            <button type="submit" class="btn btn-primary">Ajouter</button>
+        </EditForm>
+
+        @if (sent)
+        {
+            <div class="alert alert-success mt-3">✅ Produit ajouté!</div>
+        }
+    </div>
+</div>
+
+<div class="card mb-3">
+    <div class="card-header d-flex justify-content-between align-items-center">
+        <span>📦 Liste des produits</span>
+        <button class="btn btn-sm btn-outline-primary" @onclick="Load">🔄 Recharger</button>
+    </div>
+    <div class="card-body">
+        @if (loading)
+        {
+            <div class="text-center py-4">
+                <div class="spinner-border text-primary"></div>
+                <p class="mt-2">Chargement...</p>
+            </div>
+        }
+        else
+        {
+            <table class="table table-striped table-hover">
+                <thead class="table-dark">
+                    <tr><th>ID</th><th>Nom</th><th>Prix</th><th>Stock</th></tr>
+                </thead>
+                <tbody>
+                    @foreach (var p in products)
+                    {
+                        <tr>
+                            <td>@p.Id</td>
+                            <td>@p.Name</td>
+                            <td class="text-success fw-bold">@p.Price.ToString("C")</td>
+                            <td><span class="badge @(p.Stock > 0 ? "bg-success" : "bg-danger")">@p.Stock</span></td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        }
+    </div>
+</div>
+
+@code {
+    private ProductDto product = new() {};
+    private bool sent = false;
+
+    private void AddProduct()
+    {
+        sent = true;
+        product = new ProductDto { };
+    }
+
+    private List<Product> products = new();
+    private bool loading = true;
+
+    protected override async Task OnInitializedAsync() => await Load();
+
+    private async Task Load()
+    {
+        loading = true;
+        products = await ProductService.GetAllAsync();
+        loading = false;
+    }
+}
